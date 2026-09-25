@@ -1,53 +1,54 @@
 :root{
-  --bg:#F5FBF9;
+  --bg:#FFF9F1;
   --surface:#FFFFFF;
-  --surface-2:#E9F6F4;
-  --ink:#15282C;
-  --muted:#4A6166;
-  --muted-2:#7A8E92;
-  --primary:#0B8F9C;
-  --primary-strong:#076A74;
-  --primary-soft:#D8F1F1;
-  --accent:#DE4A42;
-  --accent-strong:#B8352E;
-  --accent-soft:#FDE3E0;
-  --line:#DCE9E6;
-  --shadow: 0 18px 40px -24px rgba(11,143,156,.35);
+  --surface-2:#FDF1E3;
+  --ink:#232638;
+  --muted:#5C5A66;
+  --muted-2:#8A8690;
+  --primary:#C94F1D;
+  --primary-strong:#9E3A10;
+  --primary-soft:#FDE6D6;
+  --accent:#3457D5;
+  --accent-strong:#22399A;
+  --accent-soft:#E2E9FC;
+  --line:#F0E3D3;
+  --shadow: 0 18px 40px -24px rgba(201,79,29,.35);
   --radius-lg: 20px;
   --radius-md: 12px;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
-    --bg:#0E1719; --surface:#152124; --surface-2:#19272A; --ink:#E8F2F2;
-    --muted:#A3B8BB; --muted-2:#7F9396; --primary:#22AAB6; --primary-strong:#8FDDE3;
-    --primary-soft:#123A3E; --accent:#F46F68; --accent-strong:#FFA9A3; --accent-soft:#3F1F1D;
-    --line:#243538; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
+    --bg:#16151B; --surface:#1F1D25; --surface-2:#25222B; --ink:#F2EEEA;
+    --muted:#B9B2AC; --muted-2:#8F8983; --primary:#F07A45; --primary-strong:#FFB48E;
+    --primary-soft:#40241A; --accent:#6F8CF0; --accent-strong:#AFC0FF; --accent-soft:#1E2748;
+    --line:#332F38; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
   }
 }
 :root[data-theme="dark"]{
-  --bg:#0E1719; --surface:#152124; --surface-2:#19272A; --ink:#E8F2F2;
-  --muted:#A3B8BB; --muted-2:#7F9396; --primary:#22AAB6; --primary-strong:#8FDDE3;
-  --primary-soft:#123A3E; --accent:#F46F68; --accent-strong:#FFA9A3; --accent-soft:#3F1F1D;
-  --line:#243538; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
+  --bg:#16151B; --surface:#1F1D25; --surface-2:#25222B; --ink:#F2EEEA;
+  --muted:#B9B2AC; --muted-2:#8F8983; --primary:#F07A45; --primary-strong:#FFB48E;
+  --primary-soft:#40241A; --accent:#6F8CF0; --accent-strong:#AFC0FF; --accent-soft:#1E2748;
+  --line:#332F38; --shadow: 0 18px 40px -20px rgba(0,0,0,.6);
 }
 
-/* 통영은 패널(상단바·통계·상담박스·CTA·배너)을 밝은 물빛·크림으로, 글자는 진하게 — 다크모드에서도 밝게 유지 */
+/* 통영은 패널(상단바·통계·상담박스·CTA·배너)을 밝은 아이보리·살구로, 글자는 진하게 — 다크모드에서도 밝게 유지 */
 :root{
-  --panel-ink:#123E45; --panel-muted:#4A6B71;
-  --topbar-ink:#123E45; --on-dark-ink:#123E45; --on-dark:#1F4A52; --on-dark-muted:#4A6B71;
-  --cta-big-text:#1F4A52; --banner-bg:#E3F4F3; --banner-glow:#FFE1DC; --banner-text:#1F4A52; --banner-apply:#0B8F9C;
-  --pbox-shadow:rgba(11,143,156,.25);
-  --band-top:#DDF3F4; --band-bottom:#FFF1E6; --band-hi:#0B8F9C; --band-soft:#FFFFFF; --band-ink:#9FD1C6; --band-deep:#2F5E66; --band-sun:#F25C54;
-  --panel:#E3F4F3; --panel-2:#CFECEA; --on-accent:#FFFFFF; --banner-mark:#076A74;
+  --panel-ink:#3A2A20; --panel-muted:#6B5647;
+  --topbar-ink:#3A2A20; --on-dark-ink:#3A2A20; --on-dark:#3A2A20; --on-dark-muted:#6B5647;
+  --cta-big-text:#3A2A20; --banner-bg:#FDEFE2; --banner-glow:#E2E9FC; --banner-text:#3A2A20; --banner-apply:#C94F1D;
+  --pbox-shadow:rgba(201,79,29,.22);
+  --band-top:#FFF3E4; --band-bottom:#D6E4FA; --band-hi:#DE5A24; --band-soft:#FFFFFF; --band-ink:#F6DDB0; --band-deep:#2F4A7A; --band-sun:#DE5A24;
+  --panel:#FDEFE2; --panel-2:#FBE3CD; --on-accent:#FFFFFF; --banner-mark:#9E3A10;
 }
 
-/* 밝은 풍경 테마(engine/bright.css) 색 — 통영: 물빛 하늘 + 에메랄드 바다 + 벽화 코랄 */
+/* 밝은 테마(engine/bright.css) 색 — 통영: 아이보리 종이 지도 + 감빛 오렌지 + 쪽빛 코발트 */
 :root{
-  --b-hero-bg:#DDF3F4; --b-fade:rgba(245,251,249,.96); --b-fade-mid:rgba(245,251,249,.82);
-  --b-ink:#15282C; --b-lead:#415A5F; --b-brand:#0B8F9C; --b-brand-strong:#076A74;
-  --b-shadow:rgba(11,143,156,.45); --b-line:#E2EFEC; --b-line-strong:#93D0D2; --b-section:#E9F6F4;
-  --b-ph-art:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 110'%3E%3Ccircle cx='330' cy='30' r='14' fill='%23FFC85C'/%3E%3Cg fill='none' stroke='%232F5E66' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M250 30 q7 -6 14 0 q7 -6 14 0'/%3E%3Cpath d='M284 16 q5 -4 10 0 q5 -4 10 0'/%3E%3C/g%3E%3Cpath d='M180 80 C 230 58 270 56 310 72 C 350 54 400 52 440 76 V84 H180 Z' fill='%23B3DBD2'/%3E%3Cpath d='M0 110 V80 H600 V110 Z' fill='%238ED3D6'/%3E%3Cpath d='M200 90 h40 M300 96 h30' stroke='%23FFFFFF' stroke-width='3' stroke-linecap='round'/%3E%3Cpath d='M130 84 H180 V90 H130 Z' fill='%23B9C6C4'/%3E%3Cpath d='M150 84 L153 56 H159 L162 84 Z' fill='%23F25C54'/%3E%3Crect x='152' y='64' width='9' height='4' fill='%23FFFFFF'/%3E%3Cpath d='M150 56 L156 49 L162 56 Z' fill='%23F25C54'/%3E%3Cpath d='M430 110 C 470 80 520 50 600 44 V110 Z' fill='%23A8D69A'/%3E%3Crect x='470' y='80' width='18' height='12' fill='%23FFC85C'/%3E%3Cpath d='M468 80 L479 72 L490 80 Z' fill='%23F25C54'/%3E%3Crect x='500' y='66' width='18' height='12' fill='%236CC3D5'/%3E%3Cpath d='M498 66 L509 58 L520 66 Z' fill='%232F8C9A'/%3E%3Crect x='530' y='56' width='18' height='12' fill='%23FFFFFF'/%3E%3Cpath d='M528 56 L539 48 L550 56 Z' fill='%23F25C54'/%3E%3Crect x='560' y='50' width='18' height='12' fill='%23F79A7B'/%3E%3Cpath d='M558 50 L569 42 L580 50 Z' fill='%232F8C9A'/%3E%3Crect x='520' y='82' width='18' height='12' fill='%23B7A6F0'/%3E%3Cpath d='M518 82 L529 74 L540 82 Z' fill='%23F25C54'/%3E%3Crect x='556' y='74' width='18' height='12' fill='%238FD694'/%3E%3Cpath d='M554 74 L565 66 L576 74 Z' fill='%232F8C9A'/%3E%3C/svg%3E");
-  --b-ph-ground:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 V22 C 240 16 480 26 720 20 C 960 14 1200 24 1440 18 V40 Z' fill='%238ED3D6'/%3E%3Cpath d='M0 34 H1440 V40 H0 Z' fill='%23E6DDC6'/%3E%3C/svg%3E");}
+  --b-hero-bg:#D6E4FA; --b-fade:rgba(255,249,241,.97); --b-fade-mid:rgba(255,249,241,.86);
+  --b-ink:#232638; --b-lead:#55525E; --b-brand:#C94F1D; --b-brand-strong:#9E3A10;
+  --b-shadow:rgba(201,79,29,.4); --b-line:#F3E8DA; --b-line-strong:#EDC2A4; --b-section:#FDF1E3;
+  --b-ph-art:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 600 110'%3E%3Cpath d='M150 110 C 200 70 300 56 600 50 V110 Z' fill='%23D6E4FA'/%3E%3Cg fill='none' stroke='%23A9C1EC' stroke-width='2' stroke-linecap='round'%3E%3Cpath d='M300 96 q6 -5 12 0 t12 0'/%3E%3Cpath d='M420 80 q6 -5 12 0 t12 0'/%3E%3Cpath d='M520 100 q6 -5 12 0 t12 0'/%3E%3C/g%3E%3Cpath d='M250 92 C 256 78 290 74 312 82 C 326 90 314 102 290 104 C 266 106 246 102 250 92 Z' fill='%23FBEBCB' stroke='%23E8C98E' stroke-width='3'/%3E%3Cpath d='M370 70 C 378 56 414 54 436 62 C 452 70 440 84 414 86 C 390 88 364 82 370 70 Z' fill='%23FBEBCB' stroke='%23E8C98E' stroke-width='3'/%3E%3Cpath d='M490 88 C 496 76 526 72 546 80 C 560 88 548 100 524 100 C 502 102 486 98 490 88 Z' fill='%23FBEBCB' stroke='%23E8C98E' stroke-width='3'/%3E%3Cellipse cx='404' cy='72' rx='16' ry='6' fill='%23BFE0A6'/%3E%3Cellipse cx='520' cy='89' rx='12' ry='5' fill='%23BFE0A6'/%3E%3Cpath d='M310 88 C 340 70 350 64 370 70 M436 70 C 470 70 480 80 492 86' fill='none' stroke='%23DE5A24' stroke-width='2.5' stroke-dasharray='1 7' stroke-linecap='round'/%3E%3Cg transform='translate%28404 64%29'%3E%3Cpath d='M0 0 C -7 -8 -10 -12 -10 -18 A10 10 0 1 1 10 -18 C 10 -12 7 -8 0 0 Z' fill='%23DE5A24'/%3E%3Ccircle cy='-18' r='4' fill='%23FFFFFF'/%3E%3C/g%3E%3Cg transform='translate%28560 30%29'%3E%3Ccircle r='16' fill='%23FFFFFF' stroke='%232F4A7A' stroke-width='1.4'/%3E%3Cpath d='M0 -13 L4 0 L0 13 L-4 0 Z' fill='%232F4A7A'/%3E%3Cpath d='M0 -13 L4 0 L-4 0 Z' fill='%23DE5A24'/%3E%3C/g%3E%3C/svg%3E");
+  --b-ph-ground:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 40' preserveAspectRatio='none'%3E%3Cpath d='M0 40 V24 C 240 18 480 28 720 22 C 960 16 1200 26 1440 20 V40 Z' fill='%23D6E4FA'/%3E%3Cpath d='M0 30 C 240 24 480 34 720 28 C 960 22 1200 32 1440 26' fill='none' stroke='%23DE5A24' stroke-width='2' stroke-dasharray='1 8' stroke-linecap='round'/%3E%3C/svg%3E");
+}
 *{box-sizing:border-box;}
 html{background:var(--bg);}
 body{
@@ -447,15 +448,21 @@ mark.free{color:var(--b-brand-strong);}
   .stats .wrap > div + div{border-left:0;}
   .page-hero{background-size:auto 70px, 100% 30px, auto; padding-bottom:56px;}
 }
-/* 통영: 공통 밝은 테마(engine/bright.css) 위에 통영만의 차이 */
-.hero .trust-row,.stats .lbl{color:#4A6166;}
-.stats .wrap > div + div{border-left-color:#E3EFEC;}
-.page-hero{background:var(--b-ph-art) right bottom / auto 110px no-repeat, var(--b-ph-ground) left bottom / 100% 40px no-repeat, linear-gradient(180deg, #DDF3F4, #F5FBF9);}
+/* 통영: 공통 밝은 테마(engine/bright.css) 위에 통영만의 차이 — 종이 지도 느낌 */
+.hero .trust-row,.stats .lbl{color:#5C5A66;}
+.stats .wrap > div + div{border-left-color:#F3E8DA;}
+.stats .num{color:var(--accent);}
+.page-hero{background:var(--b-ph-art) right bottom / auto 110px no-repeat, var(--b-ph-ground) left bottom / 100% 40px no-repeat, linear-gradient(180deg, #FFF3E4, #FFF9F1);}
 @media (max-width:900px){ .page-hero{background-size:auto 70px, 100% 30px, auto;} .stats .wrap > div + div{border-left:0;} }
-.apply-wrap,.intro-banner{border-color:#C6E6E4;}
+.apply-wrap,.intro-banner{border-color:#F0D7C2;}
 .ib-tag{background:rgba(255,255,255,.12); color:var(--on-dark);}
-.form-card{box-shadow:0 10px 30px -18px rgba(11,143,156,.35);}
-:root{--tip-bg:#E6F5F4; --tip-line:#B6DFDD; --tip-ink:#076A74; --card-bg:#F0F7F5; --check:#0B8F9C;}
-@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--tip-bg:#112629; --tip-line:#234649; --tip-ink:#8FDDE3; --card-bg:#172225; --check:#22AAB6;}}
-:root[data-theme="dark"]{--tip-bg:#112629; --tip-line:#234649; --tip-ink:#8FDDE3; --card-bg:#172225; --check:#22AAB6;}
-.cta-main{box-shadow:0 10px 24px -10px rgba(184,53,46,.5);}
+.form-card{box-shadow:0 10px 30px -18px rgba(201,79,29,.35);}
+:root{--tip-bg:#FDF0E4; --tip-line:#F3CFB4; --tip-ink:#9E3A10; --card-bg:#FBF4EA; --check:#C94F1D;}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--tip-bg:#2A1D17; --tip-line:#4A3024; --tip-ink:#FFB48E; --card-bg:#221F26; --check:#F07A45;}}
+:root[data-theme="dark"]{--tip-bg:#2A1D17; --tip-line:#4A3024; --tip-ink:#FFB48E; --card-bg:#221F26; --check:#F07A45;}
+.cta-main{box-shadow:0 10px 24px -10px rgba(52,87,213,.5);}
+/* 카드 아이콘도 섬·뱃길 테마로 */
+#grades .svc-card:nth-child(1)::before{content:"🏝️";}
+#grades .svc-card:nth-child(2)::before{content:"⛴️";}
+#grades .svc-card:nth-child(3)::before{content:"🧭";}
+#services .svc-card:nth-child(3)::before{content:"📌";}
