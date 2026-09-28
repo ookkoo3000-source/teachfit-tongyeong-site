@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sun, 27 Sep 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>경남해양과학고등학교 영어과외, 기초부터 단계별 지도</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-marine-science-hs-yeongeo-gicho.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-marine-science-hs-yeongeo-gicho.html</guid>
+    <description>전공 실습과 승선 준비로 바쁜 경남해양과학고등학교 학생을 위해 영어 기초를 단계별로 다지는 방법과 해양 전공과 연결한 영어 공부법을 정리했어요.</description>
+    <pubDate>Mon, 28 Sep 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>욕지중학교 영어과외, 섬에서도 1:1 맞춤 지도</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yokji-ms-yeongeo-11.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yokji-ms-yeongeo-11.html</guid>
+    <description>학원을 다니기 어려운 섬 지역 욕지중학교 학생을 위해 집에서 영어 실력을 꾸준히 쌓는 방법과 1:1 화상 수업 활용법을 정리했어요.</description>
+    <pubDate>Mon, 28 Sep 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>도산초등학교 국어과외, 글쓰기 기초 다지기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-dosan-es-gugeo-geulsseugi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-dosan-es-gugeo-geulsseugi.html</guid>
+    <description>일기나 독서록을 쓸 때마다 한두 줄에서 멈추는 도산초등학교 학생을 위해 초등 글쓰기 기초를 단계별로 키우는 방법을 정리했어요.</description>
+    <pubDate>Mon, 28 Sep 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>충무고등학교 국어과외, 내신 서술형 완성</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-hs-gugeo-seosul.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-hs-gugeo-seosul.html</guid>
+    <description>고등 국어 내신 서술형에서 부분 점수를 자주 잃는 충무고등학교 학생을 위해 서술형 유형별 답안 구성법과 감점을 줄이는 점검 순서를 정리했어요.</description>
+    <pubDate>Mon, 28 Sep 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>산양중학교 수학과외, 방정식 활용 문제 집중 보완</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-ms-suhak-bangjeongsik.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-ms-suhak-bangjeongsik.html</guid>
+    <description>방정식 계산은 되는데 활용 문제만 나오면 식을 세우지 못하는 산양중학교 학생을 위해 조건을 식으로 바꾸는 단계별 연습법을 정리했어요.</description>
+    <pubDate>Mon, 28 Sep 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>충렬여자고등학교 영어과외, 영어 독해 속도가 느린 학생을 위한 문장 구조와 지문 읽기 훈련</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-girls-hs-yeongeo-dokhae-sokdo.html</link>
