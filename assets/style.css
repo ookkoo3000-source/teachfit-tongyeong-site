@@ -424,6 +424,7 @@ mark.free{background:linear-gradient(transparent 55%, var(--accent-soft) 55%); c
   .quick{padding:22px 16px 18px;}
   .q-fab{display:none;}
 }
+.kw-note{margin-top:18px; color:var(--muted); font-size:15px; line-height:1.7;}
 
 /* =================================================================
    밝은 풍경 테마 (region.py BRIGHT = True 인 지역만 포함) — 구미 디자인 일반화
@@ -509,6 +510,10 @@ mark.free{color:var(--b-brand-strong);}
   .stats .wrap > div + div{border-left:0;}
   .page-hero{background-size:auto 70px, 100% 30px, auto; padding-bottom:56px;}
 }
+
+/* Gemini 히어로 일러스트 (이미지형) */
+.hero-img{object-fit:cover; object-position:right bottom;}
+@media (max-width:900px){ .hero-img{object-position:88% bottom;} }
 /* 통영: 공통 밝은 테마(engine/bright.css) 위에 통영만의 차이 — 종이 지도 느낌 */
 .hero .trust-row,.stats .lbl{color:#5C5A66;}
 .stats .wrap > div + div{border-left-color:#F3E8DA;}
