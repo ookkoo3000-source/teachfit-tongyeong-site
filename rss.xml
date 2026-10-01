@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 30 Sep 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>용남초등학교 국어과외, 헷갈리는 맞춤법 바로잡기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yongnam-es-gugeo-matchumbeop.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yongnam-es-gugeo-matchumbeop.html</guid>
+    <description>소리 나는 대로 쓰다가 받아쓰기와 일기에서 맞춤법을 자주 틀리는 용남초등학교 학생을 위해 헷갈리는 맞춤법을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>한산중학교 수학과외, 정수와 유리수 계산 정복</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-ms-suhak-jeongsu.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hansan-ms-suhak-jeongsu.html</guid>
+    <description>음수가 나오면 부호를 헷갈리고 정수와 유리수의 사칙계산에서 실수가 잦은 한산중학교 학생을 위해 이 단원을 원리부터 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사량초등학교 수학과외, 평면도형의 둘레와 넓이</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-saryang-es-suhak-dulle-neolbi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-saryang-es-suhak-dulle-neolbi.html</guid>
+    <description>둘레와 넓이를 헷갈리고 평행사변형과 삼각형의 넓이 공식에서 막히는 사량초등학교 학생을 위해 원리부터 차근차근 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>경남해양과학고등학교 영어과외, 기초 독해력 키우기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-marine-hs-yeongeo-dokhae.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-marine-hs-yeongeo-dokhae.html</guid>
+    <description>영어 지문이 길어지면 해석이 막히고 내신 시험이 부담스러운 경남해양과학고등학교 학생을 위해 기초 독해력을 키우는 방법을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영중학교 국어과외, 시의 운율과 심상 이해</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-ms-gugeo-si-unyul.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-ms-gugeo-si-unyul.html</guid>
+    <description>시를 읽어도 운율과 심상이 무엇인지 헷갈리고 표현 효과를 묻는 문제에서 틀리는 통영중학교 학생을 위해 시 감상 방법을 정리했어요.</description>
+    <pubDate>Thu, 01 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>산양초등학교 영어과외, 알파벳부터 차근차근</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-es-yeongeo-alphabet.html</link>
