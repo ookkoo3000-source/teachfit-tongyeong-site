@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 02 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>충무여자중학교 영어과외, 비교급과 최상급 정리</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-girls-ms-yeongeo-bigyogeup.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-girls-ms-yeongeo-bigyogeup.html</guid>
+    <description>비교급과 최상급 형태를 헷갈리고 원급 비교와 비교급 강조 표현에서 자주 실수하는 충무여자중학교 학생을 위해 비교 표현을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영고등학교 국어과외, 비문학 독해 정확도 높이기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hs-gugeo-bimunhak.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hs-gugeo-bimunhak.html</guid>
+    <description>비문학 지문을 끝까지 읽어도 내용이 정리되지 않고 시간에 쫓겨 틀리는 통영고등학교 학생을 위해 비문학 독해 순서와 훈련법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>진남초등학교 국어과외, 속담과 관용 표현 익히기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-gugeo-sokdam.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-gugeo-sokdam.html</guid>
+    <description>속담과 관용 표현의 뜻을 글자 그대로 받아들여 문장 속 의미를 이해하지 못하는 진남초등학교 학생을 위해 쉽게 익히는 방법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>인평초등학교 영어과외, 영어로 자기소개 말하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-inpyeong-es-yeongeo-jagisogae.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-inpyeong-es-yeongeo-jagisogae.html</guid>
+    <description>영어 단어는 아는데 자기소개를 해보라고 하면 이름만 말하고 멈추는 인평초등학교 학생을 위해 영어 자기소개 연습법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>원평초등학교 수학과외, 약수와 배수 개념 잡기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-wonpyeong-es-suhak-yaksu-baesu.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-wonpyeong-es-suhak-yaksu-baesu.html</guid>
+    <description>약수와 배수를 헷갈리고 최대공약수와 최소공배수 문장제에서 무엇을 구해야 할지 모르는 원평초등학교 학생을 위해 개념과 풀이법을 정리했어요.</description>
+    <pubDate>Sat, 03 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>도산중학교 수학과외, 일차부등식 풀이와 활용</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-dosan-ms-suhak-budeungsik.html</link>
