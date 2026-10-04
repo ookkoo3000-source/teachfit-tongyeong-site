@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 03 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>동원중학교 국어과외, 문장의 짜임 홑문장과 겹문장</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-ms-gugeo-munjang-jjaim.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-ms-gugeo-munjang-jjaim.html</guid>
+    <description>홑문장과 겹문장을 구분하지 못하고 이어진문장과 안은문장, 안긴문장의 종류를 헷갈리는 동원중학교 학생을 위해 문장의 짜임을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영여자고등학교 수학과외, 미분계수와 도함수 기초</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-girls-hs-suhak-mibun-gicho.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-girls-hs-suhak-mibun-gicho.html</guid>
+    <description>미분계수의 뜻을 모르고 공식만 외워서 접선과 증가·감소 문제에서 막히는 통영여자고등학교 학생을 위해 미분의 기초를 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>충무초등학교 영어과외, 현재진행형 문장 만들기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-es-yeongeo-hyeonjae-jinhaeng.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-es-yeongeo-hyeonjae-jinhaeng.html</guid>
+    <description>지금 무엇을 하고 있는지 영어로 말할 때 be동사를 빠뜨리거나 ing를 붙이는 규칙을 헷갈리는 충무초등학교 학생을 위해 현재진행형을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>제석초등학교 국어과외, 인물의 마음 짐작하며 읽기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-jeseok-es-gugeo-inmul-maeum.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-jeseok-es-gugeo-inmul-maeum.html</guid>
+    <description>이야기를 읽고 인물의 마음을 묻는 질문에 좋았다, 슬펐다로만 답하고 근거를 찾지 못하는 제석초등학교 학생을 위해 인물의 마음을 읽는 방법을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>유영초등학교 수학과외, 분수의 나눗셈 원리 이해</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yuyeong-es-suhak-bunsu-nanutsem.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yuyeong-es-suhak-bunsu-nanutsem.html</guid>
+    <description>분수의 나눗셈에서 역수를 왜 곱하는지 모르고 나누는 수를 뒤집지 않거나 앞의 분수를 뒤집는 유영초등학교 학생을 위해 원리와 계산법을 정리했어요.</description>
+    <pubDate>Sun, 04 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>충무여자중학교 영어과외, 비교급과 최상급 정리</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-girls-ms-yeongeo-bigyogeup.html</link>
