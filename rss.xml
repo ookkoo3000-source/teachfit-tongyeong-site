@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sun, 04 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>충렬여자중학교 수학과외, 이등변삼각형과 외심·내심</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungryeol-girls-ms-suhak-isunggak.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungryeol-girls-ms-suhak-isunggak.html</guid>
+    <description>이등변삼각형의 성질을 증명에 활용하지 못하고 외심과 내심의 성질을 헷갈리는 충렬여자중학교 학생을 위해 삼각형의 성질을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>한산초등학교 국어과외, 동시 읽고 직접 써보기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-gugeo-dongsi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-gugeo-dongsi.html</guid>
+    <description>동시를 읽어도 느낌을 말로 표현하지 못하고 동시를 써보라고 하면 무엇을 써야 할지 막막해하는 한산초등학교 학생을 위해 동시 감상과 쓰기를 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영중학교 영어과외, 현재완료 의미와 용법</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-ms-yeongeo-hyeonjae-wanryo.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-ms-yeongeo-hyeonjae-wanryo.html</guid>
+    <description>현재완료와 과거 시제의 차이를 모르고 for와 since, have been과 have gone을 헷갈리는 통영중학교 학생을 위해 현재완료를 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영초등학교 수학과외, 큰 수 읽고 쓰기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-es-suhak-keun-su.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-es-suhak-keun-su.html</guid>
+    <description>만, 억, 조 단위의 큰 수를 읽을 때 자리를 헷갈리고 0이 들어간 수를 쓸 때 자릿수를 틀리는 통영초등학교 학생을 위해 큰 수를 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>한려초등학교 영어과외, 교실 물건과 위치 영어로 말하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hallyeo-es-yeongeo-gyosil-mulgeon.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hallyeo-es-yeongeo-gyosil-mulgeon.html</guid>
+    <description>교실 물건 단어는 알지만 물건이 어디에 있는지 묻고 답하거나 in, on, under를 구분하지 못하는 한려초등학교 학생을 위해 표현을 정리했어요.</description>
+    <pubDate>Mon, 05 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>동원중학교 국어과외, 문장의 짜임 홑문장과 겹문장</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-ms-gugeo-munjang-jjaim.html</link>
