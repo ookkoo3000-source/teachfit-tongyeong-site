@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Mon, 05 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>충무중학교 수학과외, 정수와 유리수 부호 계산 실수</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-ms-suhak-jeongsu-yurisu.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-ms-suhak-jeongsu-yurisu.html</guid>
+    <description>음수의 덧셈과 뺄셈에서 부호를 헷갈리고 괄호 앞 마이너스나 거듭제곱의 부호를 잘못 처리하는 충무중학교 학생을 위해 정수와 유리수 계산을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>용남초등학교 영어과외, 취미와 좋아하는 것 말하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yongnam-es-yeongeo-chwimi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yongnam-es-yeongeo-chwimi.html</guid>
+    <description>I like soccer.는 말하지만 What's your hobby?에 대답하지 못하거나 like 뒤에 동사를 그대로 쓰는 용남초등학교 학생을 위해 취미 표현을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>동원고등학교 국어과외, 고전소설 인물 관계와 서술상 특징</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-hs-gugeo-gojeon-soseol.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-hs-gugeo-gojeon-soseol.html</guid>
+    <description>고전소설 지문이 길고 인물이 많아 관계를 놓치고 서술상 특징 문제에서 편집자적 논평과 요약적 제시를 헷갈리는 동원고등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사량중학교 영어과외, 조동사 의미와 쓰임 정리</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-saryang-ms-yeongeo-jodongsa.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-saryang-ms-yeongeo-jodongsa.html</guid>
+    <description>can, may, must, should의 뜻을 하나씩만 알고 조동사 뒤에 -s나 to를 붙이거나 must not과 don't have to를 헷갈리는 사량중학교 학생을 위해 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>광도초등학교 수학과외, 시각과 시간 계산 받아내림</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-gwangdo-es-suhak-sigak-sigan.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-gwangdo-es-suhak-sigak-sigan.html</guid>
+    <description>시각과 시간을 구분하지 못하고 분 단위 받아내림에서 100을 빌려 오는 실수를 하는 광도초등학교 학생을 위해 시각과 시간 계산을 정리했어요.</description>
+    <pubDate>Tue, 06 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>충렬여자중학교 수학과외, 이등변삼각형과 외심·내심</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chungryeol-girls-ms-suhak-isunggak.html</link>
