@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 07 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>산양초등학교 국어과외, 이야기의 인물 사건 배경 찾기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-es-gugeo-iyagi-yoso.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-es-gugeo-iyagi-yoso.html</guid>
+    <description>이야기를 읽고 인물, 사건, 배경을 구분하지 못하거나 사건의 흐름을 처음, 가운데, 끝으로 정리하지 못하는 산양초등학교 학생을 위해 이야기의 구성 요소를 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>벽방초등학교 영어과외, 하고 싶은 일 want to 표현</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-byeokbang-es-yeongeo-want-to.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-byeokbang-es-yeongeo-want-to.html</guid>
+    <description>I want to 뒤에 동사의 형태를 틀리거나 I want와 I want to를 헷갈리고 하고 싶은 일을 이유와 함께 말하지 못하는 벽방초등학교 학생을 위해 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>충무고등학교 영어과외, 가정법 과거와 과거완료 정리</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-hs-yeongeo-gajeongbeop.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-hs-yeongeo-gajeongbeop.html</guid>
+    <description>가정법 과거와 과거완료의 형태를 헷갈리거나 If I am you처럼 시제를 틀리고 I wish와 as if 구문을 해석하지 못하는 충무고등학교 학생을 위해 가정법을 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>욕지중학교 수학과외, 연립방정식 가감법 대입법 정리</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yokji-ms-suhak-yeollip.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yokji-ms-suhak-yeollip.html</guid>
+    <description>연립방정식에서 어떤 미지수를 없앨지 판단하지 못하고 가감법의 부호와 대입법의 괄호에서 실수하는 욕지중학교 학생을 위해 연립방정식 풀이를 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>남포초등학교 수학과외, 약분과 통분 분수 크기 비교</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-nampo-es-suhak-yakbun-tongbun.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-nampo-es-suhak-yakbun-tongbun.html</guid>
+    <description>약분할 때 분모와 분자를 다른 수로 나누거나 통분할 때 분자에 곱하는 것을 빠뜨리는 남포초등학교 학생을 위해 약분과 통분, 분수의 크기 비교를 정리했어요.</description>
+    <pubDate>Thu, 08 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>경남해양과학고등학교 수학과외, 다항식 계산 기초 다지기</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-haeyang-hs-suhak-dahangsik.html</link>
