@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>산양중학교 수학과외, 소인수분해와 최대공약수 최소공배수 | 티치핏통영</title>
+<meta name="description" content="소인수분해를 할 때 소수가 아닌 수로 나누거나 거듭제곱으로 나타내지 못하고 최대공약수와 최소공배수를 헷갈리는 산양중학교 학생을 위해 소인수분해를 정리했어요.">
+<link rel="canonical" href="https://tongyeong.slovrest.com/blog/tongyeong-sanyang-ms-suhak-soinsu-bunhae.html">
+<link rel="alternate" type="application/rss+xml" title="티치핏통영 블로그" href="https://tongyeong.slovrest.com/rss.xml">
+<link rel="icon" href="https://tongyeong.slovrest.com/favicon.ico?v=5d5ec2da" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="https://tongyeong.slovrest.com/assets/icon-192.png?v=5d5ec2da">
+<link rel="apple-touch-icon" href="https://tongyeong.slovrest.com/apple-touch-icon.png?v=5d5ec2da">
+<meta name="naver-site-verification" content="425136fc2f189fdcc4da00910c3744b6e16b43d3">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="../assets/style.css?v=1cab77e691">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="티치핏통영">
+<meta property="og:title" content="산양중학교 수학과외, 소인수분해와 최대공약수 최소공배수 | 티치핏통영">
+<meta property="og:description" content="소인수분해를 할 때 소수가 아닌 수로 나누거나 거듭제곱으로 나타내지 못하고 최대공약수와 최소공배수를 헷갈리는 산양중학교 학생을 위해 소인수분해를 정리했어요.">
+<meta property="og:url" content="https://tongyeong.slovrest.com/blog/tongyeong-sanyang-ms-suhak-soinsu-bunhae.html">
+<meta property="og:image" content="https://tongyeong.slovrest.com/blog/img/tongyeong-sanyang-ms-suhak-soinsu-bunhae.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://tongyeong.slovrest.com/blog/img/tongyeong-sanyang-ms-suhak-soinsu-bunhae.jpg">
+</head>
+<body>
+<div class="band band-tongyeong" aria-hidden="true">
+<svg class="band-bg" viewBox="0 0 800 56" preserveAspectRatio="none">
+  <defs><linearGradient id="tyBandBg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" style="stop-color:var(--band-top)"/><stop offset="100%" style="stop-color:var(--band-bottom)"/></linearGradient></defs>
+  <rect x="0" y="0" width="800" height="56" fill="url(#tyBandBg)"/>
+  <g fill="var(--band-ink)"><ellipse cx="90" cy="40" rx="26" ry="8"/><ellipse cx="250" cy="18" rx="18" ry="6"/><ellipse cx="410" cy="42" rx="30" ry="8"/><ellipse cx="560" cy="16" rx="16" ry="5"/><ellipse cx="700" cy="40" rx="22" ry="7"/></g>
+  <path d="M0 30 C 60 20 70 36 116 38 C 180 40 200 20 250 18 C 320 16 350 44 410 42 C 470 40 500 18 560 16 C 620 14 650 40 700 40 C 740 40 770 30 800 28" fill="none" stroke="var(--band-hi)" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+</svg>
+<svg class="band-motif" viewBox="0 0 150 56" preserveAspectRatio="xMaxYMax meet">
+  <g transform="translate(58 36) rotate(-12)">
+    <path d="M-18 -3 h-16 M-18 3 h-16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-16 0 C -12 -8 12 -8 20 0 C 12 8 -12 8 -16 0 Z" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.4"/>
+    <rect x="-6" y="-3.5" width="12" height="7" rx="1.5" fill="var(--band-sun)"/>
+  </g>
+  <g transform="translate(122 28)">
+    <circle r="17" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.4"/>
+    <path d="M0 -14 L4 0 L0 14 L-4 0 Z" fill="var(--band-deep)"/><path d="M0 -14 L4 0 L-4 0 Z" fill="var(--band-sun)"/>
+    <path d="M-14 0 L0 3 L14 0 L0 -3 Z" fill="var(--band-deep)" opacity=".35"/>
+  </g>
+</svg>
+</div>
+<div class="topbar">
+  <div class="wrap">
+    <span>지금 신청하면 30분 무료체험수업부터 받아보실 수 있어요</span>
+    <a class="phone" href="tel:01031315305">📞 010-3131-5305 (09:00–21:00)</a>
+  </div>
+</div>
+<header class="site">
+  <div class="wrap">
+    <a class="logo" href="../index.html"><span class="mark">TF</span>티치핏통영</a>
+    <div class="navwrap">
+      <nav class="main">
+        <a href="../index.html">홈</a>
+        <a href="../teachers.html">선생님</a>
+        <a href="../regions.html">통영 학교별 과외</a>
+        <a href="../blog.html" aria-current="page">블로그</a>
+      </nav>
+      <a class="cta-btn" href="../apply.html">무료 상담 신청</a>
+      <button class="menu-btn" aria-label="메뉴">☰</button>
+    </div>
+  </div>
+  <div class="mobile-nav-wrap">
+    <nav class="mobile-nav">
+      <a href="../index.html">홈</a>
+      <a href="../teachers.html">선생님</a>
+      <a href="../regions.html">통영 학교별 과외</a>
+      <a href="../blog.html" aria-current="page">블로그</a>
+      <a href="../apply.html">무료 상담 신청</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<nav class="breadcrumb"><a href="../blog.html">블로그</a> / 중등 수학</nav>
+<section class="page-hero post-hero">
+  <span class="eyebrow">2026-10-10 · 중등 수학</span>
+  <h1>산양중학교 수학과외, 소인수분해와 최대공약수 최소공배수</h1>
+  <img class="post-cover" src="img/tongyeong-sanyang-ms-suhak-soinsu-bunhae.webp" width="720" height="720" alt="산양중학교 수학과외 1:1 화상과외 안내" loading="eager">
+  <div class="hero-cta"><a class="cta-main" href="../apply.html">30분 무료체험 신청하기 →</a><span>상담·체험 모두 무료</span></div>
+</section>
+<section>
+  <article class="prose blog-prose">
+    <div class="intro-banner">
+  <span class="ib-tag">무료 상담 · 무료 체험</span>
+  <p>학생 학습 상태 진단과 학교 시험 분석을 함께 안내드려요.<br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요.</p>
+  <div class="ib-btns">
+    <a class="ib-kakao" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담 <i>↗</i></a>
+    <a class="ib-apply" href="../apply.html">무료체험 신청 <i>✨</i></a>
+  </div>
+</div><div class="summary-box"><strong>이 글 한눈에 보기</strong><ul><li>산양중학교 학생이 소인수분해를 어려워하는 이유</li><li>소수와 합성수, 거듭제곱</li><li>소인수분해하는 방법</li><li>약수 구하기와 제곱수 만들기</li><li>최대공약수와 최소공배수</li><li><b><mark class="free">30분 무료체험수업</mark></b>으로 먼저 확인해보실 수 있어요.</li></ul></div>
+<p>산양중학교 1학년 학생들이 중학교 수학에서 가장 먼저 배우는 단원이 소인수분해예요. 초등학교에서 약수와 배수를 배웠기 때문에 쉽게 느껴지지만, 소수와 합성수를 구분하는 기준에서 1을 어떻게 다루는지 헷갈리고, 소인수분해를 할 때 4나 6처럼 소수가 아닌 수로 나누어 틀리는 경우가 많아요.</p><p>결과를 거듭제곱으로 정리하지 않거나, 소인수를 작은 수부터 차례로 쓰지 않아 감점되기도 해요. 소인수분해를 이용해 약수의 개수를 구하거나 최대공약수와 최소공배수를 구하는 문제로 넘어가면 지수를 더해야 할지 곱해야 할지, 작은 지수를 골라야 할지 큰 지수를 골라야 할지 헷갈려요.</p><p>소인수분해는 중학교 1학년 첫 내신의 핵심 범위이고, 정수와 유리수, 문자와 식, 3학년의 제곱근과 인수분해, 고등학교의 정수 문제까지 이어지는 수학의 기초예요.</p><p>소수의 개념과 소인수분해의 원리를 정확히 이해하면 이어지는 단원이 훨씬 쉬워져요. 이 글에서는 산양중학교 학생이 소인수분해를 어려워하는 이유, 소수와 합성수, 거듭제곱, 소인수분해하는 방법, 약수 구하기, 최대공약수와 최소공배수, 그리고 1:1 화상 수학 수업 활용법까지 차례대로 정리해 드릴게요.</p>
+<div class="pbox"><h2>산양중학교 학생이 소인수분해를 어려워하는 이유</h2>
+<p>소인수분해를 어려워하는 첫 번째 이유는 소수의 정의를 정확히 모르는 거예요. 소수는 1보다 큰 자연수 중 1과 자기 자신만을 약수로 가지는 수인데, 1을 소수로 착각하거나 모든 홀수를 소수로 생각하는 경우가 있어요.</p>
+<p>두 번째 이유는 소수가 아닌 수로 나누는 거예요. 소인수분해는 반드시 소수로만 나누어야 하는데, 4나 6, 9처럼 합성수로 나누어 결과가 틀려요.</p>
+<p>세 번째 이유는 거듭제곱으로 정리하지 않는 거예요. 2 곱하기 2 곱하기 2 곱하기 3을 2의 세제곱 곱하기 3으로 나타내야 하는데, 곱셈을 그대로 나열해서 감점돼요.</p>
+<p>네 번째 이유는 소인수와 약수를 헷갈리는 거예요. 소인수는 약수 중에서 소수인 것만 말하는데, 모든 약수를 소인수로 착각하는 경우가 있어요.</p>
+<p>다섯 번째 이유는 약수의 개수 공식을 잘못 쓰는 거예요. 각 지수에 1을 더해서 곱해야 하는데, 지수를 그대로 곱하거나 더하는 실수가 자주 나와요.</p>
+<p>여섯 번째 이유는 최대공약수와 최소공배수를 구하는 방법을 헷갈리는 거예요. 최대공약수는 공통인 소인수의 작은 지수, 최소공배수는 모든 소인수의 큰 지수를 택하는데, 둘을 반대로 적용해요.</p>
+<p>일곱 번째 이유는 서로소의 개념을 모르는 거예요. 최대공약수가 1인 두 수를 서로소라고 하는데, 두 수가 모두 소수여야 서로소라고 착각하는 경우가 있어요.</p>
+<p>여덟 번째 이유는 활용 문제에서 최대공약수와 최소공배수 중 무엇을 써야 할지 판단하지 못하는 거예요. 똑같이 나누기는 최대공약수, 처음으로 다시 만나기는 최소공배수인데, 상황을 구분하지 못해요.</p>
+<p>소인수분해는 소수의 개념과 정해진 규칙만 익히면 누구나 정확하게 할 수 있어요. 소수와 합성수부터 차근차근 정리해 볼게요.</p>
+</div><div class="pbox"><h2>소수와 합성수, 거듭제곱</h2>
+<p>소수는 1보다 큰 자연수 중에서 1과 자기 자신만을 약수로 가지는 수예요. 2, 3, 5, 7, 11, 13처럼 약수가 정확히 2개인 수예요.</p>
+<p>합성수는 1보다 큰 자연수 중에서 소수가 아닌 수예요. 4, 6, 8, 9, 10처럼 약수가 3개 이상인 수예요. 합성수는 소수들의 곱으로 나타낼 수 있어요.</p>
+<p>1은 소수도 합성수도 아니에요. 1의 약수는 1 하나뿐이라서 약수가 2개인 소수의 조건에 맞지 않고, 합성수도 아니에요. 시험에 자주 나오는 개념이에요.</p>
+<p>2는 가장 작은 소수이면서 유일한 짝수 소수예요. 2를 제외한 짝수는 모두 2를 약수로 가지므로 합성수예요. 하지만 홀수라고 모두 소수는 아니에요. 9, 15, 21은 홀수지만 합성수예요.</p>
+<p>에라토스테네스의 체로 소수를 찾을 수 있어요. 1부터 50까지의 수를 쓰고 1을 지운 다음, 2를 남기고 2의 배수를 지우고, 3을 남기고 3의 배수를 지우는 방법을 반복하면 소수만 남아요.</p>
+<p>50까지의 소수는 외워 두면 편리해요. 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47로 모두 15개예요.</p>
+<p>거듭제곱은 같은 수를 여러 번 곱한 것을 간단히 나타낸 거예요. 2를 세 번 곱한 것은 2의 세제곱으로 나타내요. 여러 번 곱한 수를 밑, 곱한 횟수를 지수라고 해요.</p>
+<p>거듭제곱으로 나타낼 때는 밑과 지수를 정확히 구분해요. 2의 세제곱은 2 곱하기 3인 6이 아니라 2 곱하기 2 곱하기 2인 8이에요. 지수는 곱하는 횟수라는 것을 기억해요.</p>
+<div class="callout"><strong>핵심 정리</strong>소수와 거듭제곱을 익혔다면 이제 소인수분해하는 방법을 정리해 볼 차례예요.</div>
+</div><div class="pbox"><h2>소인수분해하는 방법</h2>
+<p>인수는 어떤 수를 나누어떨어지게 하는 수, 즉 약수예요. 소인수는 인수 중에서 소수인 것이에요. 12의 인수는 1, 2, 3, 4, 6, 12이고, 소인수는 2와 3이에요.</p>
+<p>소인수분해는 자연수를 소인수들만의 곱으로 나타내는 거예요. 12를 소인수분해하면 2의 제곱 곱하기 3이에요.</p>
+<p>소인수분해는 나눗셈을 이용하면 편해요. 가장 작은 소수인 2부터 나누어떨어질 때까지 나누고, 더 이상 나누어지지 않으면 3, 5, 7 순서로 다음 소수로 나누어요.</p>
+<p>72를 소인수분해해 봐요. 72를 2로 나누면 36, 다시 2로 나누면 18, 다시 2로 나누면 9예요. 9는 2로 나누어지지 않으므로 3으로 나누면 3, 다시 3으로 나누면 1이에요. 따라서 2의 세제곱 곱하기 3의 제곱이에요.</p>
+<p>가지치기 방법도 있어요. 72를 8 곱하기 9로 나누고, 8은 2 곱하기 4, 4는 2 곱하기 2로, 9는 3 곱하기 3으로 나누어 가지 끝에 소수만 남을 때까지 계속해요.</p>
+<p>어떤 방법을 쓰든 결과는 같아요. 자연수의 소인수분해 결과는 곱하는 순서를 생각하지 않으면 오직 한 가지뿐이에요.</p>
+<p>결과는 작은 소인수부터 차례로 쓰고 같은 소인수는 거듭제곱으로 나타내요. 3 곱하기 2 곱하기 2보다 2의 제곱 곱하기 3으로 쓰는 것이 바른 표현이에요.</p>
+<p>소인수분해한 결과는 다시 곱해서 확인해요. 2의 세제곱 곱하기 3의 제곱은 8 곱하기 9인 72이므로 맞아요. 이 습관이 실수를 크게 줄여 줘요.</p>
+<p>소인수분해하는 방법을 익혔다면 이제 소인수분해를 이용해 약수를 구하는 방법을 정리해요.</p>
+</div><div class="mid-cta"><strong>우리 아이에게 맞는지 궁금하시다면</strong><br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요. <a class="cta-btn" href="../apply.html">무료체험 신청하기 →</a></div><div class="pbox"><h2>약수 구하기와 제곱수 만들기</h2>
+<p>소인수분해를 이용하면 약수를 빠짐없이 구할 수 있어요. 2의 제곱 곱하기 3의 약수는 2의 약수 1, 2, 4와 3의 약수 1, 3을 각각 곱해서 구해요.</p>
+<p>표를 이용하면 편해요. 가로에 1, 2, 4를, 세로에 1, 3을 쓰고 칸마다 곱하면 1, 2, 4, 3, 6, 12의 여섯 개 약수가 모두 나와요.</p>
+<p>약수의 개수는 공식으로 구할 수 있어요. a의 m제곱 곱하기 b의 n제곱의 약수의 개수는 m에 1을 더한 값과 n에 1을 더한 값의 곱이에요.</p>
+<p>72는 2의 세제곱 곱하기 3의 제곱이므로 약수의 개수는 3에 1을 더한 4와 2에 1을 더한 3을 곱한 12개예요. 1을 더하는 이유는 각 소인수를 0번 곱하는 경우도 포함하기 때문이에요.</p>
+<p>제곱인 수를 만드는 문제도 자주 나와요. 제곱인 수는 소인수분해했을 때 모든 지수가 짝수예요. 2의 세제곱 곱하기 3에 어떤 수를 곱해 제곱인 수를 만들려면 지수가 홀수인 2와 3을 하나씩 더 곱해야 해요.</p>
+<p>따라서 곱해야 하는 가장 작은 자연수는 2 곱하기 3인 6이에요. 2의 네제곱 곱하기 3의 제곱이 되어 모든 지수가 짝수가 돼요.</p>
+<p>나누어서 제곱인 수를 만드는 문제도 같은 원리예요. 지수가 홀수인 소인수로 나누면 지수가 짝수가 돼요.</p>
+<p>약수의 개수 공식과 제곱인 수의 조건은 시험에 자주 나오므로 원리와 함께 확실히 익혀 두어요. 원리를 알면 공식을 잊어도 다시 만들어 낼 수 있어요.</p>
+<div class="callout"><strong>핵심 정리</strong>약수 구하기를 익혔다면 마지막으로 최대공약수와 최소공배수를 정리해요.</div>
+</div><div class="pbox"><h2>최대공약수와 최소공배수</h2>
+<p>최대공약수는 두 개 이상의 자연수의 공약수 중에서 가장 큰 수예요. 소인수분해를 이용하면 공통인 소인수를 찾아 지수가 작은 것을 택해서 곱해요.</p>
+<p>72와 60의 최대공약수를 구해 봐요. 72는 2의 세제곱 곱하기 3의 제곱, 60은 2의 제곱 곱하기 3 곱하기 5예요. 공통인 소인수는 2와 3이고, 작은 지수를 택하면 2의 제곱 곱하기 3인 12예요.</p>
+<p>최소공배수는 두 개 이상의 자연수의 공배수 중에서 가장 작은 수예요. 소인수분해를 이용하면 모든 소인수를 택하고, 공통인 소인수는 지수가 큰 것을 택해서 곱해요.</p>
+<p>72와 60의 최소공배수는 모든 소인수 2, 3, 5 중 큰 지수를 택해 2의 세제곱 곱하기 3의 제곱 곱하기 5인 360이에요.</p>
+<p>최대공약수는 공통, 작은 지수, 최소공배수는 모두, 큰 지수라고 짝지어 기억하면 헷갈리지 않아요.</p>
+<p>최대공약수가 1인 두 수를 서로소라고 해요. 8과 9는 둘 다 소수가 아니지만 공통인 소인수가 없어서 서로소예요.</p>
+<p>활용 문제에서는 상황을 보고 판단해요. 가능한 한 많은 사람에게 똑같이 나누어 주기, 가장 큰 정사각형으로 빈틈없이 채우기는 최대공약수예요. 동시에 출발해 처음으로 다시 만나기, 가장 작은 정사각형 만들기는 최소공배수예요.</p>
+<p>두 수의 곱은 최대공약수와 최소공배수의 곱과 같아요. 72 곱하기 60과 12 곱하기 360은 모두 4320이에요. 이 성질을 이용하는 문제도 자주 나와요.</p>
+<p>소인수분해를 확실히 익혀 두면 이후의 제곱근, 인수분해, 고등학교 정수 문제까지 자신 있게 이어 갈 수 있어요.</p>
+</div><div class="pbox"><h2>1:1 화상 수학 수업으로 소인수분해 완성하기</h2>
+<p>티치핏 1:1 화상 수학 수업에서는 산양중학교 학생의 교재와 내신 시험지를 먼저 확인하고, 개념 이해가 약한지 계산과 활용이 약한지 약점부터 정확히 진단해요.</p>
+<p>화면 공유 판서로 에라토스테네스의 체와 나눗셈, 가지치기 과정을 단계별로 보여 주기 때문에, 학생이 소인수분해의 원리를 눈으로 확인하며 이해할 수 있어요.</p>
+<p>학생이 직접 소인수분해하는 과정을 화면으로 실시간 확인하면서 합성수로 나누거나 지수를 잘못 택하는 실수를 바로 짚어 주고, 같은 유형을 반복해서 정확도를 높여요.</p>
+<p>학교 기출 유형에 맞추어 약수의 개수, 제곱인 수 만들기, 최대공약수와 최소공배수 활용 문제를 집중 연습하고, 시험 전에는 예상 문제로 마무리 점검을 해요.</p>
+<p>수업 후에는 개념 정리표와 오답 노트, 과제를 정리해 드려서 혼자서도 복습을 이어 갈 수 있어요.</p>
+<p>통영 산양처럼 학원까지 오가는 시간이 부담스러운 지역의 학생도 집에서 바로 1:1 수업을 받을 수 있어서 통학 시간을 공부 시간으로 바꿀 수 있어요.</p>
+<p>궁금한 점은 수업 중 언제든 편하게 질문할 수 있어서, 헷갈리는 부분을 그냥 넘기지 않고 그 자리에서 해결할 수 있어요.</p>
+<p>중학교 수학 첫 내신이 고민이시라면 <mark class="free">30분 무료체험수업</mark>으로 먼저 수업 방식을 확인해 보세요. 시험지나 교재를 준비해 오시면 약점 분석부터 함께 해 볼 수 있어요.</p>
+<p>상담과 체험은 모두 무료예요. 학부모님께는 수업마다 학생이 잘한 부분과 더 보완할 부분을 짧게 공유해 드려서 가정에서도 진도를 함께 확인하실 수 있어요.</p>
+<p>중학교 수학의 첫 단원을 탄탄하게 다지면 이후의 모든 단원이 수월해져요.</p>
+<p>첫 시험에서 얻은 자신감이 중학교 3년의 수학 공부를 이끌어 줘요.</p>
+<p><strong>Q. 소인수분해할 때 자꾸 합성수로 나눠요.</strong><br>
+50까지의 소수를 확실히 익히고 2부터 차례로 소수로만 나누는 순서를 반복 연습해서 정확하게 소인수분해하도록 도와 드려요.</p>
+<p><strong>Q. 최대공약수와 최소공배수를 구하는 방법이 헷갈려요.</strong><br>
+공통과 작은 지수, 모두와 큰 지수를 짝지어 정리하고 활용 문제의 상황을 구분하는 연습을 해서 정확하게 구하도록 도와 드려요.</p>
+<p><strong>Q. 중학교 첫 시험 대비도 화상 수업으로 가능한가요?</strong><br>
+네, 학교 교재와 기출 유형에 맞추어 수업하고 학생의 풀이를 실시간으로 확인하기 때문에 첫 내신을 꼼꼼하게 대비할 수 있어요.</p>
+</div>
+  </article>
+</section>
+<section>
+  <div class="cta-big">
+  <div class="cta-big-text">
+    <span class="cta-badge">무료</span>
+    <h2>30분 무료체험수업 먼저 받아보세요</h2>
+    <p>이름과 연락처만 남기시면 24시간 이내에 담당자가 연락드려요. 체험 후 마음에 들 때만 결정하세요.</p>
+  </div>
+  <div class="cta-big-btns">
+    <a class="cta-main" href="../apply.html">무료체험 신청하기 →</a>
+    <a class="cta-sub" href="tel:01031315305">전화 010-3131-5305</a>
+    <a class="cta-sub" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담</a>
+  </div>
+</div>
+</section>
+<p style="margin-top:14px;"><a href="../blog.html">← 블로그 목록으로</a></p>
+
+</main>
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="logo" href="../index.html" style="margin-bottom:10px;"><span class="mark">TF</span>티치핏통영</a>
+      <div class="fnav">
+        <a href="../services.html">화상과외 소개</a><a href="../process.html">매칭 방식</a><a href="../teachers.html">선생님</a><a href="../regions.html">통영 학교별 과외</a><a href="../blog.html">블로그</a>
+      </div>
+      <p class="disclaimer">전화 010-3131-5305 · 운영시간 09:00–21:00 · 상담 및 매칭 신청은 무료이며, 실제 수업 진행 여부와 비용은 상담 후 안내해 드립니다. 사업자 정보는 확정 후 별도 고지 예정입니다.</p>
+    </div>
+  </div>
+</footer>
+<script src="../assets/site.js?v=6af2d58710"></script>
+<a class="kakao-fab" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">
+  <span class="kakao-fab-ico">💬</span><span class="kakao-fab-label">카톡 상담</span>
+</a>
+
+<div class="mobile-cta-bar">
+  <a class="msc-call" href="tel:01031315305">📞 전화상담</a>
+  <a class="msc-apply" href="../apply.html">무료 상담 신청</a>
+</div>
+<div class="q-modal" id="qModal" aria-hidden="true">
+  <form class="quick" action="https://formsubmit.co/ookkoo12@naver.com" method="POST">
+    <input type="hidden" name="_subject" value="[티치핏통영] 팝업 상담 신청">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://tongyeong.slovrest.com/thanks.html">
+    <input type="hidden" name="신청경로" value="팝업">
+    <input type="hidden" name="과목" class="q-in-sub">
+    <input type="hidden" name="학년" class="q-in-grade">
+    <button type="button" class="q-close" aria-label="닫기">✕</button>
+    <div class="q-step q-s1 on">
+      <span class="q-badge">30분 무료체험수업</span>
+      <div class="q-title">어떤 과목이 고민이세요?<small>과목만 고르시면 통영 학교 진도에 맞는 선생님을 찾아 연락드려요</small></div>
+      <div class="q-tiles"><button type="button" data-s="수학과외" data-h="빠진 단원부터 찾아 채워요"><b>📐</b>수학과외<i>빠진 단원부터 찾아 채워요</i></button><button type="button" data-s="영어과외" data-h="단어·문법·서술형까지"><b>🔤</b>영어과외<i>단어·문법·서술형까지</i></button><button type="button" data-s="국어과외" data-h="교과서 지문·문법·독해"><b>📖</b>국어과외<i>교과서 지문·문법·독해</i></button><button type="button" data-s="초등 전과목" data-h="기초 학습 습관부터"><b>✏️</b>초등 전과목<i>기초 학습 습관부터</i></button><button type="button" data-s="과학·사회" data-h="개념 정리와 서술형 대비"><b>🔬</b>과학·사회<i>개념 정리와 서술형 대비</i></button><button type="button" data-s="자기주도학습" data-h="공부 계획과 습관 만들기"><b>🧭</b>자기주도학습<i>공부 계획과 습관 만들기</i></button></div>
+      <div class="q-alt"><a href="tel:01031315305">📞 010-3131-5305</a><a href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">💬 카톡 상담</a></div>
+    </div>
+    <div class="q-step q-s2">
+      <button type="button" class="q-back">← 다시 고르기</button>
+      <div class="q-chosen"></div><div class="q-hint"></div>
+      <span class="q-lbl">학년</span>
+      <div class="q-chips"><button type="button">초1~3</button><button type="button">초4~6</button><button type="button">중1</button><button type="button">중2</button><button type="button">중3</button><button type="button">고1</button><button type="button">고2</button><button type="button">고3</button></div>
+      <span class="q-lbl">연락처</span>
+      <div class="q-row2"><input type="text" name="학생이름" placeholder="학생 이름 *" required><input type="tel" name="연락처" placeholder="연락처 *" required></div>
+      <input type="text" name="학교" placeholder="재학 중인 학교 (선택)">
+      <button type="submit" class="q-submit">무료체험 신청하기</button>
+      <p class="q-note">상담·체험 모두 무료 · 24시간 이내 연락드려요</p>
+    </div>
+  </form>
+</div>
+<button type="button" class="q-fab" id="qFab">⚡ 무료체험 신청</button>
+
+</body>
+</html>
