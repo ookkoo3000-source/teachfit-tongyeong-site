@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 10 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>경남해양과학고등학교 국어과외, 면접 말하기 준비와 답변 구성</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-marine-hs-gugeo-myeonjeop-malhagi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-marine-hs-gugeo-myeonjeop-malhagi.html</guid>
+    <description>면접 질문에 답할 때 핵심 없이 길게 말하거나 근거 없이 짧게 끝내는 경남해양과학고등학교 학생을 위해 면접 말하기의 특징과 답변 구성, 준비 방법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>동원중학교 수학과외, 일차함수 그래프와 기울기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-ms-suhak-ilcha-hamsu-graph.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-dongwon-ms-suhak-ilcha-hamsu-graph.html</guid>
+    <description>일차함수의 기울기와 y절편을 헷갈리고 그래프를 그리거나 식을 구할 때 실수하는 동원중학교 학생을 위해 일차함수의 그래프와 기울기, 식 구하는 방법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>광도초등학교 수학과외, 진분수 가분수 대분수 바꾸기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-gwangdo-es-suhak-daebunsu-gabunsu.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-gwangdo-es-suhak-daebunsu-gabunsu.html</guid>
+    <description>가분수를 대분수로 바꿀 때 나눗셈의 몫과 나머지를 잘못 쓰거나 대분수를 가분수로 바꾸는 순서를 헷갈리는 광도초등학교 학생을 위해 분수의 종류와 바꾸는 방법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>충렬여자중학교 영어과외, 수동태 형태와 능동태 전환</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-ms-yeongeo-sudongtae.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-ms-yeongeo-sudongtae.html</guid>
+    <description>수동태의 be동사와 과거분사 형태를 틀리거나 능동태를 수동태로 바꿀 때 주어와 목적어의 위치를 헷갈리는 충렬여자중학교 학생을 위해 수동태의 원리와 전환 방법을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>죽림초등학교 영어과외, How many 개수 묻고 답하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-jukrim-es-yeongeo-how-many.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-jukrim-es-yeongeo-how-many.html</guid>
+    <description>How many 다음에 복수 명사를 쓰지 못하거나 개수를 대답할 때 s를 빠뜨리는 죽림초등학교 학생을 위해 개수를 묻고 답하는 영어 표현과 복수형 규칙을 정리했어요.</description>
+    <pubDate>Tue, 13 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>통영고등학교 영어과외, 글의 주제와 요지 찾기</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-hs-yeongeo-juje-chatgi.html</link>
