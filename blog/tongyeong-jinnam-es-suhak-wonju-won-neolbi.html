@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>진남초등학교 수학과외, 원주율과 원의 넓이 구하기 | 티치핏통영</title>
+<meta name="description" content="원주와 원의 넓이 공식을 헷갈리고 지름과 반지름을 바꾸어 넣어 계산하는 진남초등학교 학생을 위해 원주율의 뜻과 원주, 원의 넓이를 구하는 원리를 정리했어요.">
+<link rel="canonical" href="https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-suhak-wonju-won-neolbi.html">
+<link rel="alternate" type="application/rss+xml" title="티치핏통영 블로그" href="https://tongyeong.slovrest.com/rss.xml">
+<link rel="icon" href="https://tongyeong.slovrest.com/favicon.ico?v=5d5ec2da" sizes="any">
+<link rel="icon" type="image/png" sizes="192x192" href="https://tongyeong.slovrest.com/assets/icon-192.png?v=5d5ec2da">
+<link rel="apple-touch-icon" href="https://tongyeong.slovrest.com/apple-touch-icon.png?v=5d5ec2da">
+<meta name="naver-site-verification" content="425136fc2f189fdcc4da00910c3744b6e16b43d3">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="../assets/style.css?v=1cab77e691">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="티치핏통영">
+<meta property="og:title" content="진남초등학교 수학과외, 원주율과 원의 넓이 구하기 | 티치핏통영">
+<meta property="og:description" content="원주와 원의 넓이 공식을 헷갈리고 지름과 반지름을 바꾸어 넣어 계산하는 진남초등학교 학생을 위해 원주율의 뜻과 원주, 원의 넓이를 구하는 원리를 정리했어요.">
+<meta property="og:url" content="https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-suhak-wonju-won-neolbi.html">
+<meta property="og:image" content="https://tongyeong.slovrest.com/blog/img/tongyeong-jinnam-es-suhak-wonju-won-neolbi.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://tongyeong.slovrest.com/blog/img/tongyeong-jinnam-es-suhak-wonju-won-neolbi.jpg">
+</head>
+<body>
+<div class="band band-tongyeong" aria-hidden="true">
+<svg class="band-bg" viewBox="0 0 800 56" preserveAspectRatio="none">
+  <defs><linearGradient id="tyBandBg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" style="stop-color:var(--band-top)"/><stop offset="100%" style="stop-color:var(--band-bottom)"/></linearGradient></defs>
+  <rect x="0" y="0" width="800" height="56" fill="url(#tyBandBg)"/>
+  <g fill="var(--band-ink)"><ellipse cx="90" cy="40" rx="26" ry="8"/><ellipse cx="250" cy="18" rx="18" ry="6"/><ellipse cx="410" cy="42" rx="30" ry="8"/><ellipse cx="560" cy="16" rx="16" ry="5"/><ellipse cx="700" cy="40" rx="22" ry="7"/></g>
+  <path d="M0 30 C 60 20 70 36 116 38 C 180 40 200 20 250 18 C 320 16 350 44 410 42 C 470 40 500 18 560 16 C 620 14 650 40 700 40 C 740 40 770 30 800 28" fill="none" stroke="var(--band-hi)" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+</svg>
+<svg class="band-motif" viewBox="0 0 150 56" preserveAspectRatio="xMaxYMax meet">
+  <g transform="translate(58 36) rotate(-12)">
+    <path d="M-18 -3 h-16 M-18 3 h-16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-16 0 C -12 -8 12 -8 20 0 C 12 8 -12 8 -16 0 Z" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.4"/>
+    <rect x="-6" y="-3.5" width="12" height="7" rx="1.5" fill="var(--band-sun)"/>
+  </g>
+  <g transform="translate(122 28)">
+    <circle r="17" fill="#FFFFFF" stroke="var(--band-deep)" stroke-width="1.4"/>
+    <path d="M0 -14 L4 0 L0 14 L-4 0 Z" fill="var(--band-deep)"/><path d="M0 -14 L4 0 L-4 0 Z" fill="var(--band-sun)"/>
+    <path d="M-14 0 L0 3 L14 0 L0 -3 Z" fill="var(--band-deep)" opacity=".35"/>
+  </g>
+</svg>
+</div>
+<div class="topbar">
+  <div class="wrap">
+    <span>지금 신청하면 30분 무료체험수업부터 받아보실 수 있어요</span>
+    <a class="phone" href="tel:01031315305">📞 010-3131-5305 (09:00–21:00)</a>
+  </div>
+</div>
+<header class="site">
+  <div class="wrap">
+    <a class="logo" href="../index.html"><span class="mark">TF</span>티치핏통영</a>
+    <div class="navwrap">
+      <nav class="main">
+        <a href="../index.html">홈</a>
+        <a href="../teachers.html">선생님</a>
+        <a href="../regions.html">통영 학교별 과외</a>
+        <a href="../blog.html" aria-current="page">블로그</a>
+      </nav>
+      <a class="cta-btn" href="../apply.html">무료 상담 신청</a>
+      <button class="menu-btn" aria-label="메뉴">☰</button>
+    </div>
+  </div>
+  <div class="mobile-nav-wrap">
+    <nav class="mobile-nav">
+      <a href="../index.html">홈</a>
+      <a href="../teachers.html">선생님</a>
+      <a href="../regions.html">통영 학교별 과외</a>
+      <a href="../blog.html" aria-current="page">블로그</a>
+      <a href="../apply.html">무료 상담 신청</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+
+<nav class="breadcrumb"><a href="../blog.html">블로그</a> / 초등 수학</nav>
+<section class="page-hero post-hero">
+  <span class="eyebrow">2026-10-14 · 초등 수학</span>
+  <h1>진남초등학교 수학과외, 원주율과 원의 넓이 구하기</h1>
+  <img class="post-cover" src="img/tongyeong-jinnam-es-suhak-wonju-won-neolbi.webp" width="720" height="720" alt="진남초등학교 수학과외 1:1 화상과외 안내" loading="eager">
+  <div class="hero-cta"><a class="cta-main" href="../apply.html">30분 무료체험 신청하기 →</a><span>상담·체험 모두 무료</span></div>
+</section>
+<section>
+  <article class="prose blog-prose">
+    <div class="intro-banner">
+  <span class="ib-tag">무료 상담 · 무료 체험</span>
+  <p>학생 학습 상태 진단과 학교 시험 분석을 함께 안내드려요.<br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요.</p>
+  <div class="ib-btns">
+    <a class="ib-kakao" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담 <i>↗</i></a>
+    <a class="ib-apply" href="../apply.html">무료체험 신청 <i>✨</i></a>
+  </div>
+</div><div class="summary-box"><strong>이 글 한눈에 보기</strong><ul><li>진남초등학교 학생이 원의 넓이를 어려워하는 이유</li><li>원의 구성 요소와 원주율의 뜻</li><li>원주 구하기</li><li>원의 넓이 공식의 원리</li><li>여러 가지 원의 넓이</li><li><b><mark class="free">30분 무료체험수업</mark></b>으로 먼저 확인해보실 수 있어요.</li></ul></div>
+<p>진남초등학교 6학년 학생들이 2학기 수학에서 배우는 원의 넓이는 초등 측정 단원의 마지막이자 가장 어려운 단원 중 하나예요. 원주율이 3.14라는 것은 외웠지만, 원주는 지름 곱하기 원주율, 원의 넓이는 반지름 곱하기 반지름 곱하기 원주율이라는 두 공식을 헷갈려 원의 넓이를 구할 때 지름을 넣거나, 원주를 구할 때 반지름을 넣는 실수가 자주 나와요.</p><p>원주율이 왜 항상 일정한지, 원의 넓이 공식이 어떻게 나왔는지 모르고 외우기만 하면 응용 문제에서 막히고, 반원이나 색칠한 부분의 넓이를 구하는 문제에서는 어디서부터 시작해야 할지 몰라 막막해하기도 해요.</p><p>원주율과 원의 넓이는 6학년 측정 영역의 핵심이고, 원기둥의 겉넓이와 부피, 중학교의 부채꼴의 호와 넓이, 원뿔과 구의 겉넓이와 부피로 이어지는 매우 중요한 내용이에요.</p><p>원주율의 뜻과 원의 넓이 공식이 나온 원리를 이해하면 공식을 헷갈리지 않고 어떤 문제도 자신 있게 풀 수 있어요. 이 글에서는 진남초등학교 학생이 원의 넓이를 어려워하는 이유, 원의 구성 요소, 원주율의 뜻, 원주 구하기, 원의 넓이 공식의 원리, 여러 가지 원의 넓이, 그리고 1:1 화상 수학 수업 활용법까지 차례대로 정리해 드릴게요.</p>
+<div class="pbox"><h2>진남초등학교 학생이 원의 넓이를 어려워하는 이유</h2>
+<p>원의 넓이를 어려워하는 첫 번째 이유는 원주와 원의 넓이 공식을 헷갈리는 거예요. 원주는 둘레의 길이이고 원의 넓이는 원 안쪽의 크기인데, 두 공식을 섞어 쓰는 실수가 가장 흔해요.</p>
+<p>두 번째 이유는 지름과 반지름을 바꾸어 넣는 거예요. 원주는 지름을, 원의 넓이는 반지름을 쓰는데, 문제에서 주어진 값을 그대로 넣어 틀리는 경우가 많아요.</p>
+<p>세 번째 이유는 원주율의 뜻을 모르는 거예요. 원주율이 지름에 대한 원주의 비율이라는 것을 모르고 3.14라는 숫자만 외우면 원주율을 활용하는 문제에서 막혀요.</p>
+<p>네 번째 이유는 원의 넓이 공식이 나온 원리를 모르는 거예요. 원을 잘게 잘라 직사각형으로 만드는 원리를 모르면 공식을 외우기만 해서 금방 잊어버려요.</p>
+<p>다섯 번째 이유는 소수 계산에서 실수하는 거예요. 원주율 3.14를 곱하는 과정에서 소수점의 위치를 틀리거나 계산 실수가 자주 나와요.</p>
+<p>여섯 번째 이유는 반원이나 부분 원의 넓이를 구하지 못하는 거예요. 원의 넓이를 구한 뒤 2로 나누거나 4로 나누어야 하는데, 이를 놓쳐요.</p>
+<p>일곱 번째 이유는 색칠한 부분의 넓이 문제를 어려워하는 거예요. 큰 도형에서 원을 빼거나 여러 도형을 더해야 하는데, 어떤 도형으로 나누어야 할지 판단하지 못해요.</p>
+<p>여덟 번째 이유는 단위를 헷갈리는 거예요. 원주는 cm, 원의 넓이는 제곱센티미터로 써야 하는데, 단위를 바꾸어 쓰는 실수가 나와요.</p>
+<p>원의 넓이는 원주율의 뜻과 공식의 원리를 이해하면 정확하게 구할 수 있어요. 원의 구성 요소부터 차근차근 정리해 볼게요.</p>
+</div><div class="pbox"><h2>원의 구성 요소와 원주율의 뜻</h2>
+<p>원의 중심은 원의 한가운데 있는 점이에요. 원 위의 모든 점은 중심에서 같은 거리에 있어요.</p>
+<p>반지름은 원의 중심에서 원 위의 한 점까지 이은 선분이에요. 한 원에서 반지름은 모두 길이가 같아요.</p>
+<p>지름은 원의 중심을 지나는 선분으로, 원 위의 두 점을 이은 거예요. 지름은 반지름의 2배예요. 반지름이 3cm이면 지름은 6cm예요.</p>
+<p>원주는 원의 둘레의 길이예요. 원을 한 바퀴 돌았을 때의 길이라고 생각하면 돼요.</p>
+<p>원주율은 지름에 대한 원주의 비율이에요. 원주를 지름으로 나눈 값으로, 원의 크기와 관계없이 항상 일정해요.</p>
+<p>원주율은 약 3.14예요. 실제로는 3.1415926처럼 끝없이 이어지는 소수지만, 초등학교에서는 3, 3.1, 3.14로 어림해서 써요. 문제에서 어떤 값을 쓰라고 하는지 꼭 확인해요.</p>
+<p>원주율이 일정하다는 것을 직접 확인해 봐요. 컵, 접시, 동전처럼 크기가 다른 원 모양 물건의 둘레를 실로 재고 지름으로 나누면 모두 약 3이 조금 넘는 값이 나와요.</p>
+<p>원주율의 뜻을 이해하면 원주가 지름의 약 3.14배라는 것을 알 수 있어요. 지름이 1cm이면 원주는 약 3.14cm예요.</p>
+<p>원의 구성 요소를 그림으로 그려 이름을 붙이는 활동이 효과적이에요. 중심, 반지름, 지름, 원주를 표시하면 각 요소의 관계가 한눈에 보여요.</p>
+<p>원주율의 뜻을 익혔다면 이제 원주를 구하는 방법을 정리해 볼 차례예요.</p>
+<div class="callout"><strong>핵심 정리</strong>원의 구성 요소를 정확히 알아 두면 이어지는 원주와 넓이 공식에서 무엇을 넣어야 할지 헷갈리지 않아요. 특히 지름은 반지름의 2배, 반지름은 지름의 절반이라는 관계를 그림과 함께 기억해요.</div>
+</div><div class="pbox"><h2>원주 구하기</h2>
+<p>원주는 지름에 원주율을 곱해서 구해요. 원주율이 지름에 대한 원주의 비율이므로 지름 곱하기 원주율이 원주가 돼요.</p>
+<p>지름이 10cm인 원의 원주는 10 곱하기 3.14인 31.4cm예요.</p>
+<p>반지름이 주어지면 먼저 2배 해서 지름을 구해요. 반지름이 5cm이면 지름은 10cm이므로 원주는 31.4cm예요. 반지름 곱하기 2 곱하기 원주율로 구해도 돼요.</p>
+<p>원주에서 지름을 구할 수도 있어요. 원주를 원주율로 나누면 지름이에요. 원주가 18.84cm이면 지름은 18.84를 3.14로 나눈 6cm예요.</p>
+<p>원주에서 반지름을 구할 때는 지름을 구한 뒤 2로 나눠요. 원주가 18.84cm이면 지름은 6cm, 반지름은 3cm예요.</p>
+<p>원주의 단위는 길이 단위예요. cm, m처럼 써요. 넓이 단위인 제곱센티미터를 쓰지 않도록 주의해요.</p>
+<p>원주를 활용하는 문제도 있어요. 바퀴가 한 바퀴 굴러간 거리는 바퀴의 원주와 같아요. 지름 50cm인 바퀴가 10바퀴 굴러가면 50 곱하기 3.14 곱하기 10인 1570cm를 가요.</p>
+<p>소수 곱셈을 정확하게 해요. 3.14를 곱할 때는 자연수처럼 곱한 뒤 소수점 아래 두 자리를 세어 소수점을 찍어요. 어림으로 답의 크기를 확인하는 습관도 들여요.</p>
+<p>원주 구하기를 익혔다면 이제 원의 넓이 공식의 원리를 정리해 볼 차례예요.</p>
+<p>원주를 구한 뒤에는 어림으로 답을 확인해요. 원주는 지름의 3배보다 조금 크므로, 지름이 10cm인데 원주가 314cm나 3.14cm로 나오면 소수점을 잘못 찍은 거예요.</p>
+</div><div class="mid-cta"><strong>우리 아이에게 맞는지 궁금하시다면</strong><br><mark class="free">30분 무료체험수업</mark>으로 먼저 확인해보세요. <a class="cta-btn" href="../apply.html">무료체험 신청하기 →</a></div><div class="pbox"><h2>원의 넓이 공식의 원리</h2>
+<p>원의 넓이는 반지름 곱하기 반지름 곱하기 원주율로 구해요. 이 공식은 원을 잘게 잘라 직사각형 모양으로 만드는 원리에서 나와요.</p>
+<p>원을 피자 조각처럼 똑같이 잘게 잘라 엇갈려 붙이면 직사각형에 가까운 모양이 돼요. 조각을 잘게 자를수록 더 직사각형에 가까워져요.</p>
+<p>이 직사각형의 가로는 원주의 절반이에요. 원의 둘레가 위아래로 반씩 나뉘어 직사각형의 위쪽 변과 아래쪽 변이 되기 때문이에요.</p>
+<p>이 직사각형의 세로는 반지름이에요. 조각의 길이가 반지름이기 때문이에요.</p>
+<p>직사각형의 넓이는 가로 곱하기 세로이므로 원주의 절반 곱하기 반지름이에요. 원주의 절반은 지름 곱하기 원주율 나누기 2, 즉 반지름 곱하기 원주율이에요.</p>
+<p>그래서 원의 넓이는 반지름 곱하기 원주율 곱하기 반지름, 즉 반지름 곱하기 반지름 곱하기 원주율이에요. 원리를 이해하면 공식을 잊어도 다시 만들 수 있어요.</p>
+<p>반지름이 5cm인 원의 넓이는 5 곱하기 5 곱하기 3.14인 78.5제곱센티미터예요.</p>
+<p>지름이 주어지면 반드시 반지름으로 바꾼 뒤 계산해요. 지름이 10cm이면 반지름은 5cm예요. 지름을 그대로 넣으면 넓이가 4배로 커져서 틀려요.</p>
+<p>원의 넓이 공식의 원리를 익혔다면 마지막으로 여러 가지 원의 넓이를 정리해요.</p>
+<p>원의 넓이도 어림으로 확인할 수 있어요. 원은 한 변이 지름인 정사각형 안에 꼭 들어가므로 원의 넓이는 그 정사각형 넓이보다 작고, 정사각형 넓이의 4분의 3보다 조금 크다는 것을 기억해요.</p>
+<div class="callout"><strong>핵심 정리</strong>원주와 넓이를 함께 구하는 문제에서는 무엇을 구했는지 답 옆에 원주, 넓이라고 적어 두면 단위를 바꾸어 쓰는 실수를 줄일 수 있어요.</div>
+</div><div class="pbox"><h2>여러 가지 원의 넓이</h2>
+<p>반원의 넓이는 원의 넓이를 2로 나누어 구해요. 반지름이 4cm인 반원의 넓이는 4 곱하기 4 곱하기 3.14 나누기 2인 25.12제곱센티미터예요.</p>
+<p>원의 4분의 1의 넓이는 원의 넓이를 4로 나누어 구해요. 부채꼴 모양의 넓이를 구하는 기초가 돼요.</p>
+<p>반원의 둘레는 원주의 절반에 지름을 더해야 해요. 반원의 곡선 부분만 더하고 지름을 빼먹는 실수가 많으니 주의해요.</p>
+<p>색칠한 부분의 넓이는 큰 도형에서 작은 도형을 빼서 구해요. 한 변이 10cm인 정사각형 안에 꼭 맞는 원이 있을 때 원 밖의 넓이는 정사각형 넓이 100에서 원의 넓이 78.5를 뺀 21.5제곱센티미터예요.</p>
+<p>도넛 모양의 넓이는 큰 원의 넓이에서 작은 원의 넓이를 빼요. 반지름이 다른 두 원의 넓이를 각각 구한 뒤 빼면 돼요.</p>
+<p>복잡한 도형은 원과 다른 도형으로 나누어 넓이를 구한 뒤 더하거나 빼요. 그림에 보조선을 그어 어떤 도형으로 나눌 수 있는지 먼저 찾아요.</p>
+<p>반지름이 2배가 되면 원주는 2배, 원의 넓이는 4배가 돼요. 길이와 넓이의 변화를 비교하면 공식의 차이를 깊이 이해할 수 있어요.</p>
+<p>단위를 꼭 확인해요. 원주와 둘레는 cm, 넓이는 제곱센티미터예요. 답을 쓸 때 무엇을 구했는지 확인하고 알맞은 단위를 붙여요.</p>
+<p>원주율과 원의 넓이를 확실히 익혀 두면 원기둥과 중학교의 부채꼴, 원뿔, 구까지 자신 있게 이어 갈 수 있어요.</p>
+<p>운동장 트랙처럼 직사각형 양 끝에 반원이 붙은 도형은 두 반원을 합쳐 하나의 원으로 생각하면 쉽게 구할 수 있어요.</p>
+</div><div class="pbox"><h2>1:1 화상 수학 수업으로 원의 넓이 완성하기</h2>
+<p>티치핏 1:1 화상 수학 수업에서는 진남초등학교 학생이 원주와 원의 넓이 중 어느 부분에서 막히는지 먼저 확인하고, 공식 구분이 약한지 계산이나 응용이 약한지 약점의 종류부터 정확히 찾아요.</p>
+<p>화면 공유 판서로 원을 잘게 잘라 직사각형으로 만드는 과정을 보여 주며 공식의 원리를 설명하기 때문에, 아이가 공식을 외우지 않고 이해한 상태로 계산할 수 있어요.</p>
+<p>아이가 집에 있는 원 모양 물건의 둘레를 실로 재어 원주율을 확인하는 활동을 화면으로 함께 하면서, 지름과 반지름을 바꾸어 넣는 실수도 바로 짚어 주어요.</p>
+<p>단원평가에 자주 나오는 원주, 원의 넓이, 반원, 색칠한 부분의 넓이 문제를 집중 연습해서 학교 시험과 중학교 수학을 함께 대비할 수 있도록 도와 드려요.</p>
+<p>수업 후에는 공식 정리표와 연습 문제, 과제를 정리해 드려서 가정에서도 이어서 복습할 수 있어요.</p>
+<p>소수 곱셈이 흔들리는 학생은 필요한 부분만 짧게 보충해서 원주율 계산을 정확하게 할 수 있도록 도와요.</p>
+<p>궁금한 점은 수업 중 언제든 편하게 질문할 수 있어서, 아이가 모르는 부분을 그냥 넘기지 않고 그 자리에서 해결할 수 있어요.</p>
+<p>초등 고학년 수학이 고민이시라면 <mark class="free">30분 무료체험수업</mark>으로 먼저 수업 방식을 확인해 보세요. 수학 익힘책이나 단원평가를 준비해 오시면 약점 분석부터 함께 해 볼 수 있어요.</p>
+<p>상담과 체험은 모두 무료예요. 통영 지역에서 학원을 오가는 시간이 부담스러운 가정도 집에서 편안하게 수업을 받을 수 있어요.</p>
+<p>학부모님께는 수업마다 아이가 잘한 부분과 더 연습할 부분을 짧게 공유해 드려서 가정에서도 진도를 함께 확인하실 수 있어요.</p>
+<p>원리로 이해한 원의 넓이는 중학교 도형까지 든든한 바탕이 돼요.</p>
+<p><strong>Q. 원주와 원의 넓이 공식을 자꾸 헷갈려요.</strong><br>
+원을 잘라 직사각형으로 만드는 원리로 넓이 공식을 이해하고 둘레와 넓이의 차이를 그림으로 비교해서 정확하게 구분하도록 도와 드려요.</p>
+<p><strong>Q. 지름이 주어지면 그대로 넣어 계산해요.</strong><br>
+문제에서 지름인지 반지름인지 먼저 표시하고 넓이를 구할 때는 반지름으로 바꾸는 습관을 들여서 실수를 줄이도록 도와 드려요.</p>
+<p><strong>Q. 화상 수업으로 원의 넓이 원리를 이해할 수 있나요?</strong><br>
+네, 화면 공유 판서로 원을 자르고 붙이는 과정을 단계별로 보여 주기 때문에 대면 수업처럼 선명하게 이해할 수 있어요.</p>
+</div>
+  </article>
+</section>
+<section>
+  <div class="cta-big">
+  <div class="cta-big-text">
+    <span class="cta-badge">무료</span>
+    <h2>30분 무료체험수업 먼저 받아보세요</h2>
+    <p>이름과 연락처만 남기시면 24시간 이내에 담당자가 연락드려요. 체험 후 마음에 들 때만 결정하세요.</p>
+  </div>
+  <div class="cta-big-btns">
+    <a class="cta-main" href="../apply.html">무료체험 신청하기 →</a>
+    <a class="cta-sub" href="tel:01031315305">전화 010-3131-5305</a>
+    <a class="cta-sub" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">카카오톡 상담</a>
+  </div>
+</div>
+</section>
+<p style="margin-top:14px;"><a href="../blog.html">← 블로그 목록으로</a></p>
+
+</main>
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="logo" href="../index.html" style="margin-bottom:10px;"><span class="mark">TF</span>티치핏통영</a>
+      <div class="fnav">
+        <a href="../services.html">화상과외 소개</a><a href="../process.html">매칭 방식</a><a href="../teachers.html">선생님</a><a href="../regions.html">통영 학교별 과외</a><a href="../blog.html">블로그</a>
+      </div>
+      <p class="disclaimer">전화 010-3131-5305 · 운영시간 09:00–21:00 · 상담 및 매칭 신청은 무료이며, 실제 수업 진행 여부와 비용은 상담 후 안내해 드립니다. 사업자 정보는 확정 후 별도 고지 예정입니다.</p>
+    </div>
+  </div>
+</footer>
+<script src="../assets/site.js?v=6af2d58710"></script>
+<a class="kakao-fab" href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">
+  <span class="kakao-fab-ico">💬</span><span class="kakao-fab-label">카톡 상담</span>
+</a>
+
+<div class="mobile-cta-bar">
+  <a class="msc-call" href="tel:01031315305">📞 전화상담</a>
+  <a class="msc-apply" href="../apply.html">무료 상담 신청</a>
+</div>
+<div class="q-modal" id="qModal" aria-hidden="true">
+  <form class="quick" action="https://formsubmit.co/ookkoo12@naver.com" method="POST">
+    <input type="hidden" name="_subject" value="[티치핏통영] 팝업 상담 신청">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_next" value="https://tongyeong.slovrest.com/thanks.html">
+    <input type="hidden" name="신청경로" value="팝업">
+    <input type="hidden" name="과목" class="q-in-sub">
+    <input type="hidden" name="학년" class="q-in-grade">
+    <button type="button" class="q-close" aria-label="닫기">✕</button>
+    <div class="q-step q-s1 on">
+      <span class="q-badge">30분 무료체험수업</span>
+      <div class="q-title">어떤 과목이 고민이세요?<small>과목만 고르시면 통영 학교 진도에 맞는 선생님을 찾아 연락드려요</small></div>
+      <div class="q-tiles"><button type="button" data-s="수학과외" data-h="빠진 단원부터 찾아 채워요"><b>📐</b>수학과외<i>빠진 단원부터 찾아 채워요</i></button><button type="button" data-s="영어과외" data-h="단어·문법·서술형까지"><b>🔤</b>영어과외<i>단어·문법·서술형까지</i></button><button type="button" data-s="국어과외" data-h="교과서 지문·문법·독해"><b>📖</b>국어과외<i>교과서 지문·문법·독해</i></button><button type="button" data-s="초등 전과목" data-h="기초 학습 습관부터"><b>✏️</b>초등 전과목<i>기초 학습 습관부터</i></button><button type="button" data-s="과학·사회" data-h="개념 정리와 서술형 대비"><b>🔬</b>과학·사회<i>개념 정리와 서술형 대비</i></button><button type="button" data-s="자기주도학습" data-h="공부 계획과 습관 만들기"><b>🧭</b>자기주도학습<i>공부 계획과 습관 만들기</i></button></div>
+      <div class="q-alt"><a href="tel:01031315305">📞 010-3131-5305</a><a href="https://open.kakao.com/o/sCdocZOi" target="_blank" rel="noopener">💬 카톡 상담</a></div>
+    </div>
+    <div class="q-step q-s2">
+      <button type="button" class="q-back">← 다시 고르기</button>
+      <div class="q-chosen"></div><div class="q-hint"></div>
+      <span class="q-lbl">학년</span>
+      <div class="q-chips"><button type="button">초1~3</button><button type="button">초4~6</button><button type="button">중1</button><button type="button">중2</button><button type="button">중3</button><button type="button">고1</button><button type="button">고2</button><button type="button">고3</button></div>
+      <span class="q-lbl">연락처</span>
+      <div class="q-row2"><input type="text" name="학생이름" placeholder="학생 이름 *" required><input type="tel" name="연락처" placeholder="연락처 *" required></div>
+      <input type="text" name="학교" placeholder="재학 중인 학교 (선택)">
+      <button type="submit" class="q-submit">무료체험 신청하기</button>
+      <p class="q-note">상담·체험 모두 무료 · 24시간 이내 연락드려요</p>
+    </div>
+  </form>
+</div>
+<button type="button" class="q-fab" id="qFab">⚡ 무료체험 신청</button>
+
+</body>
+</html>

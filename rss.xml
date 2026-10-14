@@ -6,9 +6,44 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 13 Oct 2026 09:40:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 09:40:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>통영여자고등학교 영어과외, 문장 삽입 유형 풀이법</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-girls-hs-yeongeo-munjang-sabip.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-girls-hs-yeongeo-munjang-sabip.html</guid>
+    <description>모의고사 문장 삽입 문제에서 주어진 문장의 단서를 놓치거나 흐름이 끊기는 곳을 찾지 못하는 통영여자고등학교 학생을 위해 단서 표현 활용과 실전 풀이 순서를 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:40:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>충무여자중학교 수학과외, 평행사변형의 성질과 조건</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-girls-ms-suhak-pyeonghaeng-sabyeonhyeong.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-girls-ms-suhak-pyeonghaeng-sabyeonhyeong.html</guid>
+    <description>평행사변형의 성질과 평행사변형이 되는 조건을 헷갈리고 증명 문제에서 어떤 합동 조건을 써야 할지 모르는 충무여자중학교 학생을 위해 평행사변형의 성질과 조건을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:30:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>통영중학교 국어과외, 토론의 절차와 반론하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-ms-gugeo-toron.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-ms-gugeo-toron.html</guid>
+    <description>토론에서 주장만 반복하고 근거를 제시하지 못하거나 상대의 주장에 적절하게 반론하지 못하는 통영중학교 학생을 위해 토론의 특징과 절차, 입론과 반론 방법을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:20:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>진남초등학교 수학과외, 원주율과 원의 넓이 구하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-suhak-wonju-won-neolbi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-jinnam-es-suhak-wonju-won-neolbi.html</guid>
+    <description>원주와 원의 넓이 공식을 헷갈리고 지름과 반지름을 바꾸어 넣어 계산하는 진남초등학교 학생을 위해 원주율의 뜻과 원주, 원의 넓이를 구하는 원리를 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>한산초등학교 영어과외, 어느 나라에서 왔는지 묻고 답하기</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-yeongeo-where-from.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-yeongeo-where-from.html</guid>
+    <description>Where are you from? 질문에 나라 이름과 국적 표현을 헷갈리고 나라 이름의 철자와 대문자를 틀리는 한산초등학교 학생을 위해 출신 나라를 묻고 답하는 영어 표현을 정리했어요.</description>
+    <pubDate>Wed, 14 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>경남해양과학고등학교 국어과외, 면접 말하기 준비와 답변 구성</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-marine-hs-gugeo-myeonjeop-malhagi.html</link>
