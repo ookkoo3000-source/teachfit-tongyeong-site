@@ -532,3 +532,6 @@ mark.free{color:var(--b-brand-strong);}
 #grades .svc-card:nth-child(2)::before{content:"⛴️";}
 #grades .svc-card:nth-child(3)::before{content:"🧭";}
 #services .svc-card:nth-child(3)::before{content:"📌";}
+
+.hub-prose a,.prose .hub-link a{color:var(--primary-strong); text-decoration:underline; text-underline-offset:3px;}
+.svc-card .hub-more{display:inline-block; margin-top:12px; font-size:14px; font-weight:700; color:var(--primary-strong);}
