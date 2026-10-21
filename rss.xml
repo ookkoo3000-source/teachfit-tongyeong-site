@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 17 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>문제집은 여러 권 풀어야 할까요, 한 권을 반복해야 할까요</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-munjejip-yeoreo-gwon-vs-han-gwon.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-munjejip-yeoreo-gwon-vs-han-gwon.html</guid>
+    <description>문제집은 권수보다 한 권에서 틀린 문제를 다시 맞힐 때까지 반복했는지가 더 중요해요. 한 권을 끝까지 쓰는 방법과 새 문제집이 필요한 때를 구분하는 기준을 정리했어요.</description>
+    <pubDate>Wed, 21 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>2022 개정 교육과정, 우리 아이 학년은 언제부터 적용되나요</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-2022-gaejeong-gyoyukgwajeong-jeogyong-hangnyeon.html</link>
