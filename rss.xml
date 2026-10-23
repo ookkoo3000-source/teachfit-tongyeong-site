@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 21 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>시험 기간 스마트폰, 뺏기 전에 아이와 정해 볼 규칙</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-siheom-gigan-seumateupon.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-siheom-gigan-seumateupon.html</guid>
+    <description>시험 기간 스마트폰은 무조건 뺏기보다 언제, 어디서, 얼마나 쓸지를 아이와 함께 정할 때 더 오래 지켜져요. 규칙을 정하는 순서와 공부 중 스마트폰을 멀리 두는 방법을 정리했어요.</description>
+    <pubDate>Fri, 23 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>문제집은 여러 권 풀어야 할까요, 한 권을 반복해야 할까요</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-munjejip-yeoreo-gwon-vs-han-gwon.html</link>
