@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 23 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>초등 저학년이 손가락으로 셈할 때, 그만두게 해야 할까요</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chodeung-sonkkarak-sem.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chodeung-sonkkarak-sem.html</guid>
+    <description>초등 저학년이 손가락으로 셈하는 것은 수를 익히는 과정에서 흔한 모습이라 억지로 막기보다 다음 단계로 넘어가게 도와주는 것이 좋아요. 10을 묶어 보는 연습, 가르기와 모으기로 손가락에서 자연스럽게 벗어나는 순서를 정리했어요.</description>
+    <pubDate>Sat, 24 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>시험 기간 스마트폰, 뺏기 전에 아이와 정해 볼 규칙</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-siheom-gigan-seumateupon.html</link>
