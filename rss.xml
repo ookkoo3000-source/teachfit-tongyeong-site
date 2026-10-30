@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 24 Oct 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>인터넷 강의를 봐도 남는 게 없을 때, 효과 있게 듣는 방법</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-ingang-jedaero-deutneun-beop.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-ingang-jedaero-deutneun-beop.html</guid>
+    <description>인터넷 강의를 끝까지 봤는데 문제를 풀면 막힌다면, 보는 시간보다 강의 뒤에 스스로 풀어 보는 시간이 부족한 경우가 많아요. 강의 전·중·후에 할 일과 배속·반복 시청을 쓰는 기준을 정리했어요.</description>
+    <pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>초등 저학년이 손가락으로 셈할 때, 그만두게 해야 할까요</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chodeung-sonkkarak-sem.html</link>
