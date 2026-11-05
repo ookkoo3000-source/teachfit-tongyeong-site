@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 03 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>두룡초등학교 학부모님이 묻는 형제자매 공부, 비교하지 않고 도와주는 법</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-duryong-es-hyeongje-gongbu-bigyo.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-duryong-es-hyeongje-gongbu-bigyo.html</guid>
+    <description>형제자매를 공부로 비교하면 한 아이는 자신감을 잃고 다른 아이는 부담을 느끼기 쉬워요. 두룡초등학교에 다니는 아이를 키우는 가정에서 비교 대신 쓸 수 있는 말, 아이마다 다른 목표 세우는 법을 정리했어요.</description>
+    <pubDate>Thu, 05 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>통영중앙중학교 1학년, 자유학기 뒤 첫 지필고사 준비하는 법</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-jungang-ms-jungil-cheot-jipil-siheom.html</link>
