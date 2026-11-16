@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 07 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>제석초등학교 학부모님이 묻는 시험이 없는 초등학교, 실력은 어떻게 확인하나요</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-jeseok-es-siheom-eopneun-silryeok-hwagin.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-jeseok-es-siheom-eopneun-silryeok-hwagin.html</guid>
+    <description>초등학교는 중학교처럼 정해진 기간에 지필고사를 보지 않는 경우가 많아서 아이 실력을 알기 어렵다고 느끼는 부모님이 많아요. 제석초등학교 학생의 실력을 단원평가, 교과서·익힘책, 집에서의 짧은 점검으로 확인하는 방법을 정리했어요.</description>
+    <pubDate>Mon, 16 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>인평초등학교 입학을 앞둔 예비 1학년, 겨울에 준비하면 좋은 것</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-inpyeong-es-yebi-cho1-ipak-junbi.html</link>
