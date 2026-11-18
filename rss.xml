@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Tue, 17 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>한산중학교 학부모님이 묻는 과학 교과서 그림과 그래프, 어떻게 읽게 할까요</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-ms-gwahak-geurim-graph-ilkgi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hansan-ms-gwahak-geurim-graph-ilkgi.html</guid>
+    <description>중학교 과학에서는 글보다 그림·그래프·표에 핵심이 담긴 경우가 많아요. 한산중학교 학생이 과학 교과서의 그래프와 그림을 읽고, 그 내용을 문장으로 바꾸는 연습 방법을 정리했어요.</description>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>충렬초등학교 학부모님이 묻는, 사회 역사 인물 이름을 자꾸 헷갈려하는 아이</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-es-yeoksa-inmul-heokkallyeo.html</link>
