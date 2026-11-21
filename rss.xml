@@ -6,9 +6,23 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 09:10:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>통영초등학교 학부모님이 묻는, 받아쓰기는 100점인데 일기 띄어쓰기는 엉망인 아이</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-tongyeong-es-ilgi-tiwoesseugi-manghan.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-tongyeong-es-ilgi-tiwoesseugi-manghan.html</guid>
+    <description>받아쓰기는 불러주는 대로 적으면 되지만, 일기는 스스로 문장을 구성하며 동시에 띄어쓰기까지 신경 써야 해서 훨씬 어려운 작업이에요. 통영초등학교 학생이 일기에서도 띄어쓰기를 챙기게 돕는 법을 정리했어요.</description>
+    <pubDate>Sat, 21 Nov 2026 09:10:00 +0900</pubDate>
+  </item>
+  <item>
+    <title>사량초등학교 학부모님이 묻는 말이 안 되는 답을 그대로 쓰는 아이, 어림과 검산 연습</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-saryang-es-dap-eorim-geomsan.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-saryang-es-dap-eorim-geomsan.html</guid>
+    <description>계산 결과가 터무니없이 크거나 작은데도 그대로 답을 쓰는 아이가 있어요. 사량초등학교 학생처럼 답이 맞는지 스스로 확인하지 않는 아이가 어림과 검산으로 답을 점검하는 습관을 들이는 방법을 정리했어요.</description>
+    <pubDate>Sat, 21 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>한산중학교 학부모님이 묻는 과학 교과서 그림과 그래프, 어떻게 읽게 할까요</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-ms-gwahak-geurim-graph-ilkgi.html</link>
