@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Sat, 21 Nov 2026 09:10:00 +0900</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 09:00:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>욕지초등학교 학부모님이 묻는 0이 들어간 수를 잘못 쓰는 아이, 자릿값 연습</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-yokji-es-0-deureogan-su-sseugi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-yokji-es-0-deureogan-su-sseugi.html</guid>
+    <description>‘천오’를 10005로 쓰거나 ‘이천삼십’을 230으로 쓰는 아이가 있어요. 욕지초등학교 학생처럼 0이 들어간 큰 수를 잘못 쓰는 아이가 자릿값 표를 이용해 수를 바르게 읽고 쓰는 방법을 정리했어요.</description>
+    <pubDate>Wed, 25 Nov 2026 09:00:00 +0900</pubDate>
+  </item>
   <item>
     <title>통영초등학교 학부모님이 묻는, 받아쓰기는 100점인데 일기 띄어쓰기는 엉망인 아이</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-tongyeong-es-ilgi-tiwoesseugi-manghan.html</link>
