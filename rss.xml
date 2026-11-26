@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Thu, 26 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 09:10:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>한산초등학교 학부모님이 묻는, 서술형 문제에서 식을 못 세우는 아이</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-seosulhyeong-sik-mot-seuda.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-hansan-es-seosulhyeong-sik-mot-seuda.html</guid>
+    <description>계산은 잘하는데 서술형 문제만 보면 식을 어떻게 세워야 할지 막막해하는 경우가 많아요. 한산초등학교 학생이 문장을 수식으로 바꾸는 연습법을 정리했어요.</description>
+    <pubDate>Thu, 26 Nov 2026 09:10:00 +0900</pubDate>
+  </item>
   <item>
     <title>충무초등학교 학부모님이 묻는 초등 영어 단어, 하루에 몇 개 외워야 할까요</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-chungmu-es-yeongeo-dano-haru-myeot-gae.html</link>
