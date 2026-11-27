@@ -6,9 +6,16 @@
   <description>통영 학교별 내신·과목별 화상과외 학습 전략</description>
   <language>ko-kr</language>
   <atom:link href="https://tongyeong.slovrest.com/rss.xml" rel="self" type="application/rss+xml"/>
-  <lastBuildDate>Fri, 27 Nov 2026 09:00:00 +0900</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:10:00 +0900</lastBuildDate>
 
   <!-- RSS_ITEMS_START -->
+  <item>
+    <title>충렬여자고등학교 학부모님이 묻는 국어 문학 작품 해설을 통째로 외우는 공부, 괜찮을까요</title>
+    <link>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-ghs-munhak-haeseol-oegugi.html</link>
+    <guid>https://tongyeong.slovrest.com/blog/tongyeong-chungnyeol-ghs-munhak-haeseol-oegugi.html</guid>
+    <description>문학 작품 해설을 통째로 외웠는데 처음 보는 작품이나 바뀐 문제에서는 막히는 고등학생이 많아요. 충렬여자고등학교 학생처럼 해설 암기에 기대는 아이가 작품을 스스로 읽고 해설과 비교하는 방법을 정리했어요.</description>
+    <pubDate>Fri, 27 Nov 2026 09:10:00 +0900</pubDate>
+  </item>
   <item>
     <title>산양중학교 학부모님이 묻는, 설명문과 논설문을 구별 못 하는 아이</title>
     <link>https://tongyeong.slovrest.com/blog/tongyeong-sanyang-ms-seolmyeongmun-nonseolmun-guboon.html</link>
